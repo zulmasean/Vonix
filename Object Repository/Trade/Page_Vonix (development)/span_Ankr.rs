@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Ankr</name>
+   <tag></tag>
+   <elementGuidId>0639b610-c7b2-4d0a-a110-e8cdb2d1f779</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='close']/div/div[3]/div[16]/div[2]/div[2]/p/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>dc38a980-de5d-4116-b852-5d0250dceefe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ankr</value>
+      <webElementGuid>48f6e987-cc39-4aba-bb23-c99d093ca566</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;close&quot;)/div[@class=&quot;vx-modal__container animate__animated animate__fadeIn md&quot;]/div[@class=&quot;modal-select-crypto__test&quot;]/div[@class=&quot;modal-select-crypto__item&quot;]/div[@class=&quot;flex gap-3 modal-select-crypto__item__fav&quot;]/div[@class=&quot;modal-select-crypto__item__details&quot;]/p[1]/span[1]</value>
+      <webElementGuid>7e2b06e4-180c-4345-ae79-cc494b341105</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='close']/div/div[3]/div[16]/div[2]/div[2]/p/span</value>
+      <webElementGuid>92c585c8-4935-4fef-af87-8577998e26fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ampleforth'])[1]/following::span[1]</value>
+      <webElementGuid>9a086e43-a23c-4f04-90f2-aad895b5ee16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ambire AdEx'])[1]/following::span[2]</value>
+      <webElementGuid>78d8fe3d-ae15-4477-9b0c-412890c7434b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anoncoin'])[1]/preceding::span[1]</value>
+      <webElementGuid>9206423b-0a49-4c1c-833b-501b5769dc2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ApeCoin'])[1]/preceding::span[2]</value>
+      <webElementGuid>bee335cb-b687-4dd9-b71b-4cc6a3bb90bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ankr']/parent::*</value>
+      <webElementGuid>b0b28d40-6456-4602-bae2-3e40a51f3872</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[16]/div[2]/div[2]/p/span</value>
+      <webElementGuid>1ba77fbd-ae7c-4515-856b-accc91e1b71e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Ankr' or . = 'Ankr')]</value>
+      <webElementGuid>e20ba65a-4ee1-4fb5-8aee-3e7ad06e591a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

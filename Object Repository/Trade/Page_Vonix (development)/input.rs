@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input</name>
+   <tag></tag>
+   <elementGuidId>c7f4c6fc-d899-4217-997b-f2cdedc1c656</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.input-crypto__amount__content__user-input > input</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;app&quot;)/div[@class=&quot;vx-app&quot;]/div[@class=&quot;app-content&quot;]/div[@class=&quot;buysell&quot;]/div[@class=&quot;buysell__wrapper&quot;]/div[@class=&quot;buysell__main&quot;]/div[@class=&quot;main-buysell&quot;]/div[@class=&quot;main-buysell__wrapper&quot;]/div[@class=&quot;main-buysell__content&quot;]/div[@class=&quot;main-buysell__content__action&quot;]/div[@class=&quot;content main-buysell__content__action__buyorsell&quot;]/div[@class=&quot;content__wrapper&quot;]/div[@class=&quot;input-crypto__amount&quot;]/div[@class=&quot;input-crypto__amount__content&quot;]/div[@class=&quot;input-crypto__amount__content__user-input&quot;]/input[1]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[3]/div/div/div/div/div/div[2]/div[2]/div[3]/div/div[3]/div[2]/div/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>1dfa66f5-4f10-4948-905f-c717fd49c5ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;vx-app&quot;]/div[@class=&quot;app-content&quot;]/div[@class=&quot;buysell&quot;]/div[@class=&quot;buysell__wrapper&quot;]/div[@class=&quot;buysell__main&quot;]/div[@class=&quot;main-buysell&quot;]/div[@class=&quot;main-buysell__wrapper&quot;]/div[@class=&quot;main-buysell__content&quot;]/div[@class=&quot;main-buysell__content__action&quot;]/div[@class=&quot;content main-buysell__content__action__buyorsell&quot;]/div[@class=&quot;content__wrapper&quot;]/div[@class=&quot;input-crypto__amount&quot;]/div[@class=&quot;input-crypto__amount__content&quot;]/div[@class=&quot;input-crypto__amount__content__user-input&quot;]/input[1]</value>
+      <webElementGuid>fc2e0492-fd56-4977-b20f-ed008e1f6e09</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[3]/div/div/div/div/div/div[2]/div[2]/div[3]/div/div[3]/div[2]/div/input</value>
+      <webElementGuid>ebc33108-7b6f-435c-bf25-8b9f21b6e86e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/input</value>
+      <webElementGuid>e7610a28-40c6-406c-8088-507d567b274d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

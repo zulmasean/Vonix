@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Enzyme</name>
+   <tag></tag>
+   <elementGuidId>8c784f8b-2abb-444f-b4cc-09bfed29a2d4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='close']/div/div[3]/div[80]/div[2]/div[2]/p/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ce9fff7a-d00b-4623-9fd7-be55107ddb3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Enzyme</value>
+      <webElementGuid>2c63d0bb-e57d-43fc-942d-d03fe1e9dc2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;close&quot;)/div[@class=&quot;vx-modal__container animate__animated animate__fadeIn md&quot;]/div[@class=&quot;modal-select-crypto__test&quot;]/div[@class=&quot;modal-select-crypto__item&quot;]/div[@class=&quot;flex gap-3 modal-select-crypto__item__fav&quot;]/div[@class=&quot;modal-select-crypto__item__details&quot;]/p[1]/span[1]</value>
+      <webElementGuid>aa535363-0387-4965-bdf8-f64c37f18cce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='close']/div/div[3]/div[80]/div[2]/div[2]/p/span</value>
+      <webElementGuid>1b4bd2ab-a161-4bfb-a101-218b8e62f6cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enjin Coin'])[1]/following::span[1]</value>
+      <webElementGuid>8b39ad75-8cd8-482a-b3fa-dd6a7a6c40e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Electroneum'])[1]/following::span[2]</value>
+      <webElementGuid>bbbc436c-b78e-4db5-88b8-597881b3e841</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EOS'])[1]/preceding::span[1]</value>
+      <webElementGuid>acbe68ac-8b4a-478c-a145-8442dd10f4a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ergo'])[1]/preceding::span[2]</value>
+      <webElementGuid>b02b08eb-c9ed-419b-a21b-9b229409dd58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Enzyme']/parent::*</value>
+      <webElementGuid>dea5f447-738e-415f-a490-ce12f2afafdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[80]/div[2]/div[2]/p/span</value>
+      <webElementGuid>0c8ae8b6-8e65-42c4-a2ea-d05a21728e8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Enzyme' or . = 'Enzyme')]</value>
+      <webElementGuid>c23d5d43-aca0-45dd-a138-64b09ccb95fb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

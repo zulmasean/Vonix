@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Portfolio</name>
+   <tag></tag>
+   <elementGuidId>a6eb5dab-be2f-4906-b052-c2d1358351ec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/header/div/nav/div/ul/li[3]/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>dfeb0302-cb98-44d6-962c-59fc40287aa0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-title</value>
+      <webElementGuid>bbf784d6-e0ca-4f35-b3ba-9bd87c653dff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Portfolio </value>
+      <webElementGuid>ff9d1452-a731-43a6-b2bf-d141886e1f7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;vx-app&quot;]/header[1]/div[@class=&quot;navbar-container fixed fixed--top&quot;]/nav[@class=&quot;navbar&quot;]/div[@class=&quot;navbar__wrapper&quot;]/ul[@class=&quot;navbar__links&quot;]/li[3]/div[@class=&quot;dropdown-links&quot;]/p[@class=&quot;dropdown-title&quot;]</value>
+      <webElementGuid>cea13ae6-dfc5-46bc-bd0d-d88e8aa2dd8e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/header/div/nav/div/ul/li[3]/div/p</value>
+      <webElementGuid>0731bd70-6a6d-4b6c-9660-720799898806</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Star80'])[2]/following::p[1]</value>
+      <webElementGuid>7ea8d855-82dd-44fc-ac2d-54f3a8a2f97b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Advanced Trade'])[2]/following::p[1]</value>
+      <webElementGuid>9a73b2a1-ca85-4120-9558-00800138463d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Overview'])[2]/preceding::p[1]</value>
+      <webElementGuid>f4addfd9-b9ef-400b-93b7-8c406f871442</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Assets'])[2]/preceding::p[1]</value>
+      <webElementGuid>3528353a-b8a8-4799-9533-310e8f812917</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div/p</value>
+      <webElementGuid>48a56601-a80c-4e20-95db-9f2296cab5bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Portfolio ' or . = 'Portfolio ')]</value>
+      <webElementGuid>9869df90-a41a-4ce8-8546-699426d4a01b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

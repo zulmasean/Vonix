@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ASTAR</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bc21cad5-8ab7-4beb-aed6-106de169c9a2</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>60d0d493-6621-44fe-ac68-b9fd83a39be4</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>60d0d493-6621-44fe-ac68-b9fd83a39be4</id>
+      <masked>false</masked>
+      <name>input_ASTAR</name>
+   </variable>
+</TestCaseEntity>

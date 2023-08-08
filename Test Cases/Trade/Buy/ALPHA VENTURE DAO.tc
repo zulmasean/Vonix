@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ALPHA VENTURE DAO</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>07a0057a-3ebd-496f-86c0-738d7b077f98</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>007bc208-735b-4702-b22e-c13471764fe1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>007bc208-735b-4702-b22e-c13471764fe1</id>
+      <masked>false</masked>
+      <name>input_ALPHAVENTURE</name>
+   </variable>
+</TestCaseEntity>

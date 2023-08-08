@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>87de0359-37df-4046-8d7e-e7c35e749b8c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[3]/div/div/div/div/div/div[2]/div[2]/div[3]/div/div[2]/div[2]/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>96178482-8650-4fc4-a9d9-464cf75bfdc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/img/cheveron-down.c21f7abe.svg</value>
+      <webElementGuid>82e29080-e1a1-4325-bc1f-072a42587966</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;vx-app&quot;]/div[@class=&quot;app-content&quot;]/div[@class=&quot;buysell&quot;]/div[@class=&quot;buysell__wrapper&quot;]/div[@class=&quot;buysell__main&quot;]/div[@class=&quot;main-buysell&quot;]/div[@class=&quot;main-buysell__wrapper&quot;]/div[@class=&quot;main-buysell__content&quot;]/div[@class=&quot;main-buysell__content__action&quot;]/div[@class=&quot;content main-buysell__content__action__buyorsell&quot;]/div[@class=&quot;content__wrapper&quot;]/div[@class=&quot;content__select-pair&quot;]/div[2]/img[1]</value>
+      <webElementGuid>74d53b2d-5208-4a44-8a34-bf1a2e300964</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[3]/div/div/div/div/div/div[2]/div[2]/div[3]/div/div[2]/div[2]/img</value>
+      <webElementGuid>1c590f30-1201-4a8a-871a-4bb62885b90c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/img</value>
+      <webElementGuid>a1865d62-3c4a-43a2-9950-6937fa24dfaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/img/cheveron-down.c21f7abe.svg']</value>
+      <webElementGuid>66852f01-40b0-48b4-bd1e-d84d46062f03</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

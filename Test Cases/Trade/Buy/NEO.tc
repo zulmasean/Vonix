@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>NEO</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5b94828f-bed9-41c0-b852-bec89535273a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d5adc26d-c26e-4e39-9b1a-79eaee0fc840</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d5adc26d-c26e-4e39-9b1a-79eaee0fc840</id>
+      <masked>false</masked>
+      <name>input_NEO</name>
+   </variable>
+</TestCaseEntity>

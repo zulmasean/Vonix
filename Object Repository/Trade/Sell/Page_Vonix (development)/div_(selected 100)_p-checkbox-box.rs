@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_(selected 100)_p-checkbox-box</name>
+   <tag></tag>
+   <elementGuidId>2db77ebe-1481-4aa9-8356-c25a5b89e540</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.p-checkbox-box</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;app&quot;)/div[@class=&quot;vx-app&quot;]/div[@class=&quot;app-content&quot;]/div[@class=&quot;buysell&quot;]/div[@class=&quot;buysell__wrapper&quot;]/div[@class=&quot;buysell__main&quot;]/div[@class=&quot;main-buysell&quot;]/div[@class=&quot;main-buysell__wrapper&quot;]/div[@class=&quot;main-buysell__content&quot;]/div[@class=&quot;main-buysell__content__action&quot;]/div[@class=&quot;content main-buysell__content__action__buyorsell&quot;]/div[@class=&quot;content__wrapper&quot;]/div[@class=&quot;content__agreement&quot;]/div[@class=&quot;content__agreement__box&quot;]/div[@class=&quot;p-checkbox p-component vx-checkbox primary&quot;]/div[@class=&quot;p-checkbox-box&quot;][count(. | //div[@class = 'p-checkbox-box' and @role = 'checkbox' and @aria-checked = 'false']) = count(//div[@class = 'p-checkbox-box' and @role = 'checkbox' and @aria-checked = 'false'])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[3]/div/div/div/div/div/div[2]/div[2]/div[3]/div/div[7]/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9dc4d117-00e0-4def-a23b-81bc6f15c177</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-checkbox-box</value>
+      <webElementGuid>3fc75351-e256-489a-9eb7-6fec1cf3a052</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;vx-app&quot;]/div[@class=&quot;app-content&quot;]/div[@class=&quot;buysell&quot;]/div[@class=&quot;buysell__wrapper&quot;]/div[@class=&quot;buysell__main&quot;]/div[@class=&quot;main-buysell&quot;]/div[@class=&quot;main-buysell__wrapper&quot;]/div[@class=&quot;main-buysell__content&quot;]/div[@class=&quot;main-buysell__content__action&quot;]/div[@class=&quot;content main-buysell__content__action__buyorsell&quot;]/div[@class=&quot;content__wrapper&quot;]/div[@class=&quot;content__agreement&quot;]/div[@class=&quot;content__agreement__box&quot;]/div[@class=&quot;p-checkbox p-component vx-checkbox primary&quot;]/div[@class=&quot;p-checkbox-box&quot;]</value>
+      <webElementGuid>fc4e1bee-4bb3-4361-a141-5f830559a7ae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[3]/div/div/div/div/div/div[2]/div[2]/div[3]/div/div[7]/div/div/div[2]</value>
+      <webElementGuid>b7410961-af8b-4401-9cf4-1facf82bd79b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(selected 100%)'])[1]/following::div[19]</value>
+      <webElementGuid>261897bc-255c-4dc3-a6b4-d06bb5e93afc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='USDT'])[1]/following::div[22]</value>
+      <webElementGuid>2aed0193-8875-4380-94c2-c46d8efbe194</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I have read the rules regarding Slippage'])[1]/preceding::div[1]</value>
+      <webElementGuid>cf13ae8b-73c9-49a6-a225-d8209ce89e83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div/div[2]</value>
+      <webElementGuid>78a4cb25-e436-486b-800c-5f79a5497a14</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

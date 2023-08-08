@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Transaction History</name>
+   <tag></tag>
+   <elementGuidId>8a905cc4-8e52-4eed-83d2-1bea0d9fcde0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/header/div/nav/div/ul/li[3]/div/ul/li[5]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5feb59d0-e790-41b0-a763-635686105f57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/transaction/history</value>
+      <webElementGuid>3445816f-b458-4942-99cd-e762e6c09204</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Transaction History</value>
+      <webElementGuid>ea96fb6b-7f76-49ee-9f85-a3a27d68be73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;vx-app&quot;]/header[1]/div[@class=&quot;navbar-container fixed fixed--top&quot;]/nav[@class=&quot;navbar&quot;]/div[@class=&quot;navbar__wrapper&quot;]/ul[@class=&quot;navbar__links&quot;]/li[3]/div[@class=&quot;dropdown-links&quot;]/ul[@class=&quot;dropdown-menu&quot;]/li[5]/a[1]</value>
+      <webElementGuid>6753dce4-1fc9-4bc7-a2ac-0b1c836df1ef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/header/div/nav/div/ul/li[3]/div/ul/li[5]/a</value>
+      <webElementGuid>d7467530-3e58-4953-9a6b-0a1504876607</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Transaction History')])[2]</value>
+      <webElementGuid>adf364e0-a6f4-48ad-ad84-c5d9a55b9834</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Withdraw'])[2]/following::a[1]</value>
+      <webElementGuid>b6a73462-45cc-4b69-a32a-20d9713b18e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deposit'])[2]/following::a[2]</value>
+      <webElementGuid>9724c47c-2134-47d5-b501-f3c9752c0a1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About'])[2]/preceding::a[1]</value>
+      <webElementGuid>9b0c8279-e75e-4c8f-93ee-236c607dd121</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Careers'])[2]/preceding::a[2]</value>
+      <webElementGuid>d1271ae3-d3be-4359-9bcb-fc91179f3e6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/transaction/history')])[2]</value>
+      <webElementGuid>1cb70a94-d064-4e2d-ba7d-366d3d8963ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/a</value>
+      <webElementGuid>664d556b-cbf9-4c58-b580-db306a27a597</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/transaction/history' and (text() = 'Transaction History' or . = 'Transaction History')]</value>
+      <webElementGuid>4feda776-cdaa-4825-a173-e06bbcf605f8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

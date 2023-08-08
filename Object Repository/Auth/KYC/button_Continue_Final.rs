@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Continue_Final</name>
+   <tag></tag>
+   <elementGuidId>c56439c0-c0e7-426a-9700-36e9fc0111ee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>section.additional__form > div.additional__nav > button.vx-btn-lg.vx-btn-gradient.bd-2.with-icon</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and (text() = 'Continue ' or . = 'Continue ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>403f7eda-970e-49c0-8922-c4956a119b95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0ac9cf46-6c30-471f-8f08-a91214ba6ece</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vx-btn-lg vx-btn-gradient bd-2 with-icon</value>
+      <webElementGuid>4482fff1-1ef2-4d2d-b6c7-a857090d8871</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Continue </value>
+      <webElementGuid>15c08579-68b4-4c79-978c-df58184af47c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;vx-app&quot;]/div[1]/div[@class=&quot;vx-kyc__container&quot;]/div[@class=&quot;vx-kyc__content&quot;]/section[1]/div[@class=&quot;additional&quot;]/section[@class=&quot;additional__form&quot;]/div[@class=&quot;additional__nav&quot;]/button[@class=&quot;vx-btn-lg vx-btn-gradient bd-2 with-icon&quot;]</value>
+      <webElementGuid>a3b6f137-02f0-4dc7-9ea0-e51832577ffa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[4]</value>
+      <webElementGuid>9103ef5b-8b5c-40d1-ac87-2ec90b0b3fbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div/div[2]/section/div/section[2]/div[2]/button[2]</value>
+      <webElementGuid>ec7f70f1-4195-43fd-800a-2433598f6591</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Estimated Income per year'])[1]/following::button[2]</value>
+      <webElementGuid>5b89483a-8dbe-4d77-8670-327edcb4fa6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Do my KYC later'])[2]/preceding::button[1]</value>
+      <webElementGuid>2c772a74-6127-4085-a898-42ed1d7c7f58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::button[1]</value>
+      <webElementGuid>075a5c00-9ade-4f32-bac1-fe5ba80043f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button[2]</value>
+      <webElementGuid>5abdf0de-d908-43a4-af65-dd9cbd77122f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Continue ' or . = 'Continue ')]</value>
+      <webElementGuid>b4140cd2-196f-4f5a-9f17-1b8bd5bf4188</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select Estimated Income</name>
+   <tag></tag>
+   <elementGuidId>8aa05875-5322-4dc0-92ae-539a7f796d4e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//select[@name=''])[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>715854f7-ef4c-4926-bec6-1cf1a978ba81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ic-dropdown</value>
+      <webElementGuid>6eadc1b1-c3e2-462b-b98b-726bd8210449</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Estimated Income per Year&lt;= Rp 15 millionRp 15 million – 25 millionRp 25 million – 50 millionRp 50 million – 100 millionRp 100 million – 250 millionRp 250 million – 400 millionRp 400 million – 500 millionRp 500 million – 1 billion> Rp 1 billion</value>
+      <webElementGuid>3a37332f-7bc5-40c0-84a6-d2ee8dfee98c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;vx-app&quot;]/div[1]/div[@class=&quot;vx-kyc__container&quot;]/div[@class=&quot;vx-kyc__content&quot;]/section[1]/div[@class=&quot;additional&quot;]/section[@class=&quot;additional__form&quot;]/div[1]/form[1]/div[@class=&quot;vx-select review__input-group&quot;]/select[@class=&quot;ic-dropdown&quot;]</value>
+      <webElementGuid>b4d4466b-cd1a-47b7-a64f-1142f5afd9ef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//select[@name=''])[3]</value>
+      <webElementGuid>94af9fe3-557f-49bf-b391-da602da5366f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div/div[2]/section/div/section[2]/div/form/div[12]/select</value>
+      <webElementGuid>29ffd347-84fe-409f-b0bc-e72ce94fe4b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Estimated Income per year'])[1]/following::select[1]</value>
+      <webElementGuid>2c7f1269-e2f4-4d8a-aa7e-2dced85cf025</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Purpose of Transaction'])[1]/following::select[2]</value>
+      <webElementGuid>2e5045a0-d0c9-4f87-aae8-2b84085c511b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[12]/select</value>
+      <webElementGuid>91cd50d6-ff68-47a4-b232-50a690bde189</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = 'Select Estimated Income per Year&lt;= Rp 15 millionRp 15 million – 25 millionRp 25 million – 50 millionRp 50 million – 100 millionRp 100 million – 250 millionRp 250 million – 400 millionRp 400 million – 500 millionRp 500 million – 1 billion> Rp 1 billion' or . = 'Select Estimated Income per Year&lt;= Rp 15 millionRp 15 million – 25 millionRp 25 million – 50 millionRp 50 million – 100 millionRp 100 million – 250 millionRp 250 million – 400 millionRp 400 million – 500 millionRp 500 million – 1 billion> Rp 1 billion')]</value>
+      <webElementGuid>4c9c0fe9-aa55-4b4b-8470-986f08b5c4f2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

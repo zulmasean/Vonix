@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Easy Trade New</name>
+   <tag></tag>
+   <elementGuidId>32d89aa3-1898-4284-9898-432185f6c5b4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/header/div/nav/div/ul/li[2]/div/ul/li/a/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.dropdown-links.isShow > ul.dropdown-menu > li > a.group-menu > div.wrapper > div.menu-link</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f0d7e382-8d2e-4789-a720-a114d942cd65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-link</value>
+      <webElementGuid>436905fd-cb35-43f1-ba0d-99f6eb3edda4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Easy Trade Simple and easy Buy / Sell for beginners</value>
+      <webElementGuid>d9e6e975-84f5-4f17-8626-0716121919e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;vx-app&quot;]/header[1]/div[@class=&quot;navbar-container fixed fixed--top&quot;]/nav[@class=&quot;navbar&quot;]/div[@class=&quot;navbar__wrapper&quot;]/ul[@class=&quot;navbar__links&quot;]/li[2]/div[@class=&quot;dropdown-links isShow&quot;]/ul[@class=&quot;dropdown-menu&quot;]/li[1]/a[@class=&quot;group-menu&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;menu-link&quot;]</value>
+      <webElementGuid>e9741186-dcdc-4714-be29-eeddc6362d0c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/header/div/nav/div/ul/li[2]/div/ul/li/a/div/div</value>
+      <webElementGuid>5fbaa85d-0cd3-435e-a4af-49fdfd68c26d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='See what’s happening in crypto'])[1]/following::div[3]</value>
+      <webElementGuid>471b144c-011e-45f0-9c6e-39f699982bb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/ul/li/a/div/div</value>
+      <webElementGuid>da12441a-3b3f-44f3-bb73-d93246c02368</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Easy Trade Simple and easy Buy / Sell for beginners' or . = 'Easy Trade Simple and easy Buy / Sell for beginners')]</value>
+      <webElementGuid>bd7223c5-dfc5-44a0-a525-05fbaf287a06</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

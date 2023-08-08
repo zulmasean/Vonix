@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>List 1</name>
+   <tag></tag>
+   <elementGuidId>e3bbe1f4-66e9-4ba0-a867-d90050d8f2b9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[3]/div/div/div[2]/div[3]/div[4]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d07d0fdc-b4d7-45fb-9d20-b4bf483a1240</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>exchange__table__item</value>
+      <webElementGuid>5df137a9-c23a-41e0-9506-41d47e5c1de6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>23 May 202309:27SellTM542184292089152MARKETBTC/USDTUSDT 27048USDT 8.25(include tax)0.00030664(include tx fee)BTC/USDTSuccess</value>
+      <webElementGuid>1d045f83-899b-4df9-a98f-29801028f7e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;vx-app&quot;]/div[@class=&quot;app-content&quot;]/div[@class=&quot;history__container&quot;]/div[@class=&quot;history__wrapper&quot;]/div[@class=&quot;history__content&quot;]/div[@class=&quot;exchange__wrapper&quot;]/div[@class=&quot;exchange__table&quot;]/div[@class=&quot;exchange__table__item&quot;]</value>
+      <webElementGuid>9299fb81-3e5a-4f14-9785-524b2e8688a3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[3]/div/div/div[2]/div[3]/div[4]/div[2]</value>
+      <webElementGuid>a755c318-be5b-4a0d-9c49-577f9cd197b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Market'])[3]/preceding::div[197]</value>
+      <webElementGuid>13b33af1-b53f-4f84-a5d8-83834a580a5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Coins'])[3]/preceding::div[198]</value>
+      <webElementGuid>922933d8-fd0a-4464-8221-df30646af0f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]</value>
+      <webElementGuid>e3c2f081-7758-44b9-8460-caab36b9bc9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '23 May 202309:27SellTM542184292089152MARKETBTC/USDTUSDT 27048USDT 8.25(include tax)0.00030664(include tx fee)BTC/USDTSuccess' or . = '23 May 202309:27SellTM542184292089152MARKETBTC/USDTUSDT 27048USDT 8.25(include tax)0.00030664(include tx fee)BTC/USDTSuccess')]</value>
+      <webElementGuid>f4b637dd-e4f3-43ff-9429-cb7eac4ae39e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

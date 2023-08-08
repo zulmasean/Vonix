@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_BUY</name>
+   <tag></tag>
+   <elementGuidId>6f89c86b-f700-425b-bdc9-4433599ade4e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.vx-btn-md.vx-btn-primary.bd-2.with-icon</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;app&quot;)/div[@class=&quot;vx-app&quot;]/div[@class=&quot;app-content&quot;]/div[@class=&quot;buysell&quot;]/div[@class=&quot;buysell__wrapper&quot;]/div[@class=&quot;buysell__main&quot;]/div[@class=&quot;main-buysell&quot;]/div[@class=&quot;main-buysell__wrapper&quot;]/div[@class=&quot;main-buysell__content&quot;]/div[@class=&quot;main-buysell__content__action&quot;]/div[@class=&quot;content main-buysell__content__action__buyorsell&quot;]/div[@class=&quot;content__wrapper&quot;]/button[@class=&quot;vx-btn-md vx-btn-primary bd-2 with-icon&quot;][count(. | //button[@type = 'button' and @class = 'vx-btn-md vx-btn-primary bd-2 with-icon' and (text() = 'BUY BTC ' or . = 'BUY BTC ')]) = count(//button[@type = 'button' and @class = 'vx-btn-md vx-btn-primary bd-2 with-icon' and (text() = 'BUY BTC ' or . = 'BUY BTC ')])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[7]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c8d726e5-2508-481f-9a62-b8f834b5adf1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>07dddb92-5807-4f9d-96c7-222c5703c269</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vx-btn-md vx-btn-primary bd-2 with-icon</value>
+      <webElementGuid>6dbf6b43-92a3-421e-bb07-cdec563cf36f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BUY BTC </value>
+      <webElementGuid>b7be1066-8f67-495e-bba8-d12f45eea6af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;vx-app&quot;]/div[@class=&quot;app-content&quot;]/div[@class=&quot;buysell&quot;]/div[@class=&quot;buysell__wrapper&quot;]/div[@class=&quot;buysell__main&quot;]/div[@class=&quot;main-buysell&quot;]/div[@class=&quot;main-buysell__wrapper&quot;]/div[@class=&quot;main-buysell__content&quot;]/div[@class=&quot;main-buysell__content__action&quot;]/div[@class=&quot;content main-buysell__content__action__buyorsell&quot;]/div[@class=&quot;content__wrapper&quot;]/button[@class=&quot;vx-btn-md vx-btn-primary bd-2 with-icon&quot;]</value>
+      <webElementGuid>4b1f0171-9cc5-45db-a046-b7b306cfc44e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[7]</value>
+      <webElementGuid>a2791c9a-7a03-4a4d-9092-02f0a3563900</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[3]/div/div/div/div/div/div[2]/div[2]/div[3]/div/button</value>
+      <webElementGuid>e26cfee5-c248-40cb-af91-44c28492e938</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I have read the rules regarding Slippage'])[1]/following::button[1]</value>
+      <webElementGuid>60a9759a-2808-4c52-87ff-1fb2c275fe9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Top Up'])[1]/following::button[6]</value>
+      <webElementGuid>3c020baf-d93c-4b7a-a95e-2c185b4c48f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='price'])[1]/preceding::button[1]</value>
+      <webElementGuid>d1815b56-6fd2-4c34-ad6c-78d354923b44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(USDT)'])[1]/preceding::button[1]</value>
+      <webElementGuid>69a23a84-91aa-42c0-ad56-4f89454e5f9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='BUY BTC']/parent::*</value>
+      <webElementGuid>f66e9523-19a4-4681-891e-e4fb60eacc95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/button</value>
+      <webElementGuid>1fe88aaf-3709-430e-ad8d-1849e5a64727</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'BUY BTC ' or . = 'BUY BTC ')]</value>
+      <webElementGuid>19be2043-703d-4ee5-9717-2b1ac5b609b1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

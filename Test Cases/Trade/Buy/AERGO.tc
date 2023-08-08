@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AERGO</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>51fce431-07e5-46b1-a451-a5814aee73b0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6fd2a8ff-5d6c-4907-929b-aced098b698f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6fd2a8ff-5d6c-4907-929b-aced098b698f</id>
+      <masked>false</masked>
+      <name>input_AERGO</name>
+   </variable>
+</TestCaseEntity>

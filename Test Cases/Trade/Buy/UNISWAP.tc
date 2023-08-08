@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>UNISWAP</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4d193869-77c9-4f2e-ad9e-9278696a6861</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0a7cabe8-476d-4d72-bbdd-70af99429357</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0a7cabe8-476d-4d72-bbdd-70af99429357</id>
+      <masked>false</masked>
+      <name>input_UNISWAP</name>
+   </variable>
+</TestCaseEntity>

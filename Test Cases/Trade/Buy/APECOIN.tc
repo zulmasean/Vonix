@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>APECOIN</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1ba42054-5a72-4e08-8c88-4aae4374f8ad</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>df5f5996-ac0b-4374-9568-a5367f45c74c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>df5f5996-ac0b-4374-9568-a5367f45c74c</id>
+      <masked>false</masked>
+      <name>input_APECOIN</name>
+   </variable>
+</TestCaseEntity>

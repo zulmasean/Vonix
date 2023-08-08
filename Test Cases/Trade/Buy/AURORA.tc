@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AURORA</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>767fd880-5883-4bb1-a963-861b477f7ee7</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>540402b2-1c10-46b1-8aef-6e4048e5fb15</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>540402b2-1c10-46b1-8aef-6e4048e5fb15</id>
+      <masked>false</masked>
+      <name>input_AURORA</name>
+   </variable>
+</TestCaseEntity>

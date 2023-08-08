@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AIOZ NETWORK</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>182f2013-bfa4-462f-831b-08e68c283783</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c116d2b6-aa66-4ef0-bf35-aec9822d3cd5</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c116d2b6-aa66-4ef0-bf35-aec9822d3cd5</id>
+      <masked>false</masked>
+      <name>input_AIOZ</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ARPA</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e51a5dea-261e-4450-9822-67638ac4fa4d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b5367472-f204-4e95-8447-f607d87bf0ed</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b5367472-f204-4e95-8447-f607d87bf0ed</id>
+      <masked>false</masked>
+      <name>input_ARPA</name>
+   </variable>
+</TestCaseEntity>

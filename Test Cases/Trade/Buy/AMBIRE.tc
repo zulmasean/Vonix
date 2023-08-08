@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AMBIRE</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8c1a7f3a-4ebf-423c-923c-27fac7b02ed4</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>07198046-0076-4c66-baaf-10f318cdef40</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>07198046-0076-4c66-baaf-10f318cdef40</id>
+      <masked>false</masked>
+      <name>input_AMBIRE</name>
+   </variable>
+</TestCaseEntity>

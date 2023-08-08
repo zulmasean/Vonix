@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Withdraw</name>
+   <tag></tag>
+   <elementGuidId>3a58ae51-6496-4d0a-a4d6-b855c4ea7af8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.vx-btn-md.vx-btn-primary.bd-2.with-icon.w-full</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[7]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c995be2d-d54f-45ba-bfc3-c87befb0cdd3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>48c7fc35-6310-42c4-8fbd-257bbdeed78d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vx-btn-md vx-btn-primary bd-2 with-icon w-full</value>
+      <webElementGuid>1e062940-287b-4ac4-8dcc-c21b3df54fee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Withdraw </value>
+      <webElementGuid>47118ad4-6a93-4a14-a498-26f294123674</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;vx-app&quot;]/div[@class=&quot;app-content&quot;]/div[@class=&quot;withdraw&quot;]/div[@class=&quot;withdraw__wrapper&quot;]/div[@class=&quot;withdraw__idr&quot;]/div[@class=&quot;withdraw__idr__main&quot;]/button[@class=&quot;vx-btn-md vx-btn-primary bd-2 with-icon w-full&quot;]</value>
+      <webElementGuid>ce7bdfef-6a64-4865-8eb5-620c648433ee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[7]</value>
+      <webElementGuid>cb7da847-600c-4658-bd0e-6a0c5ef2543d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[3]/div/div/div[2]/div[2]/button</value>
+      <webElementGuid>bdeff4c4-d3d9-472f-acc9-ad06a37e17f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Minimum Withdraw : USDT 1'])[1]/following::button[6]</value>
+      <webElementGuid>81911937-3841-4946-ab8b-2fb5e2de48a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='≈ Rp 74.479,803'])[1]/following::button[6]</value>
+      <webElementGuid>f3b0a076-7a71-41ce-8808-14f94cfbb687</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Crypto Withdrawal is Coming Soon!'])[1]/preceding::button[1]</value>
+      <webElementGuid>b81de144-457a-4451-bb94-6dca8c2bdc7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Coins'])[3]/preceding::button[1]</value>
+      <webElementGuid>7a4d1f37-bbdc-453d-b7a2-334aadbd362c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>11812057-fc75-4da2-97c6-e461a49924e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Withdraw ' or . = 'Withdraw ')]</value>
+      <webElementGuid>1b838efb-487a-40aa-a5ac-05a2d5380aed</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

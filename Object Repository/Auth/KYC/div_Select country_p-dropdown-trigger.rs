@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Select country_p-dropdown-trigger</name>
+   <tag></tag>
+   <elementGuidId>884f42dc-5293-4746-abc4-72c90c5a02c2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.p-dropdown-trigger</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pv_id_2']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1daaf0a9-182e-47fb-91b7-8fc51181f6a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-dropdown-trigger</value>
+      <webElementGuid>1d0f4532-9cb2-45cb-b277-ea8686ad5f21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pv_id_2&quot;)/div[@class=&quot;p-dropdown-trigger&quot;]</value>
+      <webElementGuid>4d5568d3-db1c-4eb7-ae54-aee444e88989</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pv_id_2']/div</value>
+      <webElementGuid>ee5b07a0-a950-4c76-bfc7-3c99eac20663</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select country'])[1]/following::div[1]</value>
+      <webElementGuid>d8db3ee3-d99b-4cd2-a61c-b6c592edf0c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Country'])[1]/following::div[2]</value>
+      <webElementGuid>f88c9f4e-18dd-45bb-b9c9-f8c9458b68dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Province/State'])[1]/preceding::div[1]</value>
+      <webElementGuid>96b4646f-71b2-4552-891a-cf868b2ebb91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Province/State'])[1]/preceding::div[1]</value>
+      <webElementGuid>0264b60f-30d2-4e68-8367-83e9577f0bb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[2]/div/div</value>
+      <webElementGuid>7ecf1928-a0d3-48cb-8dda-e57623cdec49</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

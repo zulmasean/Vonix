@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AXIE INFINITY</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>76942905-0183-4b48-8bdb-f4a8bc236ef6</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c849779b-2845-46e0-87a9-08449997b2da</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c849779b-2845-46e0-87a9-08449997b2da</id>
+      <masked>false</masked>
+      <name>input_AXIEINFINITY</name>
+   </variable>
+</TestCaseEntity>

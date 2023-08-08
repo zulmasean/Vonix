@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ETHEREUM</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>26b75598-cb27-4361-ba92-ab2213b04020</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c27cd7a2-483a-4411-9207-7c681280f649</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c27cd7a2-483a-4411-9207-7c681280f649</id>
+      <masked>false</masked>
+      <name>input_ETH</name>
+   </variable>
+</TestCaseEntity>

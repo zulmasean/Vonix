@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Occupation Information_p-checkbox-box</name>
+   <tag></tag>
+   <elementGuidId>887632a8-c585-4840-b0c8-4ef9773f1d9d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.p-checkbox-box</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='agree']/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4abf4a73-0d97-4f93-a522-c8ac051f8305</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-checkbox-box</value>
+      <webElementGuid>c8936650-bf07-420e-abdf-1994621ef417</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;agree&quot;)/div[@class=&quot;p-checkbox-box&quot;]</value>
+      <webElementGuid>5e42593d-4cdb-4ad7-b9f5-ba8eff2bdc8e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='agree']/div[2]</value>
+      <webElementGuid>3b204e4d-41dc-4f77-a5e6-d8d72134ef26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Occupation Information'])[2]/following::div[4]</value>
+      <webElementGuid>b152ee3c-0ce5-4e0d-be4f-11173ec1a276</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Personal &amp; Financial Information'])[1]/following::div[4]</value>
+      <webElementGuid>51e7388b-534c-420c-95ee-54adee0630cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I understand and agree to continue the process'])[1]/preceding::div[1]</value>
+      <webElementGuid>5ba3e959-58df-4741-8b88-1f8457b38c0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div[2]/div/div[2]</value>
+      <webElementGuid>d75722b8-dbac-47e1-ba9b-5e9d85353116</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

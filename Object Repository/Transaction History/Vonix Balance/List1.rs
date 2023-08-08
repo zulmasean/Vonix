@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>List1</name>
+   <tag></tag>
+   <elementGuidId>3fd23ac5-d7ee-445a-a8a1-8499deb93d38</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.vonix__balance__table__item.cursor-pointer</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[3]/div/div/div[2]/div[3]/div[4]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7ba827e3-52e3-46ad-9ff2-514f1334a3ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vonix__balance__table__item cursor-pointer</value>
+      <webElementGuid>7c17f8f9-0bb0-4a2a-82f2-8e82561a3e8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>22 May 202316:16WithdrawANGLOMASbank transfer542057600683264Rp 14,784.042- Rp 5,014.79 (Fee)Rp 9,769Failed</value>
+      <webElementGuid>48cd3ee0-d4d5-4b26-97c1-b1fe0a15e684</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;vx-app&quot;]/div[@class=&quot;app-content&quot;]/div[@class=&quot;history__container&quot;]/div[@class=&quot;history__wrapper&quot;]/div[@class=&quot;history__content&quot;]/div[@class=&quot;vonix__balance__wrapper&quot;]/div[@class=&quot;vonix__balance__table&quot;]/div[@class=&quot;vonix__balance__table__item cursor-pointer&quot;]</value>
+      <webElementGuid>43930377-07cf-4077-94ff-c0436d8d16c0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[3]/div/div/div[2]/div[3]/div[4]/div[2]</value>
+      <webElementGuid>d1997a89-f9b2-4490-8d10-6069afd55c56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TOTAL AMOUNT'])[1]/following::div[3]</value>
+      <webElementGuid>3b113ada-2a81-418a-a40c-24328b6d21d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AMOUNT'])[1]/following::div[5]</value>
+      <webElementGuid>7b0676c5-3443-4a7f-b1b8-abde2dc74fd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Market'])[3]/preceding::div[157]</value>
+      <webElementGuid>1c01fe4e-f786-4cb7-b85f-f63e8431fdcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Coins'])[3]/preceding::div[158]</value>
+      <webElementGuid>eb039dc5-1ebd-4ebc-8744-ab8d79c01e3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]</value>
+      <webElementGuid>2494a9bf-ba01-4e23-86a8-45329df88e9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '22 May 202316:16WithdrawANGLOMASbank transfer542057600683264Rp 14,784.042- Rp 5,014.79 (Fee)Rp 9,769Failed' or . = '22 May 202316:16WithdrawANGLOMASbank transfer542057600683264Rp 14,784.042- Rp 5,014.79 (Fee)Rp 9,769Failed')]</value>
+      <webElementGuid>0a752a1b-2625-4d21-a8b7-839626917af3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

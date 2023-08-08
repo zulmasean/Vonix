@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ALPHINE F1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c0a2d061-5486-421c-a2d0-f25e8e49f0b8</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cde5492e-fd0c-4633-be77-f811549ed241</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>cde5492e-fd0c-4633-be77-f811549ed241</id>
+      <masked>false</masked>
+      <name>input_ALPHINE</name>
+   </variable>
+</TestCaseEntity>

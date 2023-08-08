@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Transaction Details</name>
+   <tag></tag>
+   <elementGuidId>1b541d5c-6cee-4834-abf0-32a7702d6735</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#element-to-convert > p</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='element-to-convert']/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>76c4417b-e77d-45da-a35e-db047faa5b29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Transaction Details</value>
+      <webElementGuid>14a37ed5-a64b-4266-b7c3-81fc6ddc4b79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;element-to-convert&quot;)/p[1]</value>
+      <webElementGuid>d8410833-e767-414c-98d2-728bec16feac</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='element-to-convert']/p</value>
+      <webElementGuid>4062a09f-d103-4b7b-809d-1706b58777fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TOTAL AMOUNT'])[1]/following::p[102]</value>
+      <webElementGuid>de4d3a26-7bdd-468e-9ae6-aab7193a48ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AMOUNT'])[1]/following::p[102]</value>
+      <webElementGuid>f5e94a70-38ed-43eb-8d0b-749a350939d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Market'])[3]/preceding::p[18]</value>
+      <webElementGuid>3a7ae653-52c8-4ad0-a354-63ae6b24c811</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Transaction Details']/parent::*</value>
+      <webElementGuid>962154a0-ec48-4ee2-834f-bd1d6ad2226b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div[2]/p</value>
+      <webElementGuid>1f054c83-cd5c-4594-9230-129f2be6ad06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Transaction Details' or . = 'Transaction Details')]</value>
+      <webElementGuid>f6e29286-d8e8-45de-b268-1b93fc0a1b86</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

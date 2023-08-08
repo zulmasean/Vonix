@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ANONCOIN</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a519b32a-0871-4084-9791-ac8f05accfea</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f39e8170-e3a8-4cdb-98b9-8c23d3d07358</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f39e8170-e3a8-4cdb-98b9-8c23d3d07358</id>
+      <masked>false</masked>
+      <name>input_ANONCOIN</name>
+   </variable>
+</TestCaseEntity>

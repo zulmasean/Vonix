@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Bank</name>
+   <tag></tag>
+   <elementGuidId>dcbfb968-45d2-4143-b0a3-7f6a87496d9f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.bank-dropdown__item > div</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;pv_id_2_0&quot;)/div[@class=&quot;bank-dropdown__item&quot;]/div[1][count(. | //*[(text() = 'Bank Mandiri' or . = 'Bank Mandiri')]) = count(//*[(text() = 'Bank Mandiri' or . = 'Bank Mandiri')])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='pv_id_2_0']/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a91af805-c1ab-43be-b643-84de6c8313ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bank Mandiri</value>
+      <webElementGuid>79a2a680-4d63-4efa-84b9-a256b79a07dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pv_id_2_0&quot;)/div[@class=&quot;bank-dropdown__item&quot;]/div[1]</value>
+      <webElementGuid>c39d35e6-6d0c-4c63-8a32-34c2d08eb63e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='pv_id_2_0']/div/div</value>
+      <webElementGuid>d179bcd6-369e-4850-9797-1953b428c437</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'pv_id_2_0', '&quot;', ')/div[@class=', '&quot;', 'bank-dropdown__item', '&quot;', ']/div[1]')])[1]/following::div[12]</value>
+      <webElementGuid>84e9f0bc-adb4-4ca8-a78a-0d9a3f76334f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[2]/following::div[13]</value>
+      <webElementGuid>442086a4-8f23-4002-bf30-210485ceca85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bank Permata'])[1]/preceding::div[1]</value>
+      <webElementGuid>2c69008a-110f-4195-ae69-90dfd246995c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bank Rakyat Indonesia'])[1]/preceding::div[3]</value>
+      <webElementGuid>b6ce65f4-31eb-4be2-ae2c-ac628ed250ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Bank Mandiri']/parent::*</value>
+      <webElementGuid>1d0379b2-bfab-4980-b162-660aa62e96b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/div</value>
+      <webElementGuid>a2403df2-718c-4cd2-ab9c-8591293eda64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Bank Mandiri' or . = 'Bank Mandiri')]</value>
+      <webElementGuid>606fda63-1e82-40c4-94fd-e650a87eb26c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

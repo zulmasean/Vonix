@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Minimum Top Up Rp 10,000</name>
+   <tag></tag>
+   <elementGuidId>033e6d10-be92-4219-8216-480ac7ce478a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.content__idr__main__minimum > p</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[3]/div/div/div[2]/div[2]/div[2]/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>f58a771a-0ac8-4a4b-b00f-23b9e866a1b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Minimum Top Up: Rp 10,000</value>
+      <webElementGuid>b5fee489-890f-4f9f-a41d-f1a74d9d0f10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;vx-app&quot;]/div[@class=&quot;app-content&quot;]/div[@class=&quot;deposit&quot;]/div[@class=&quot;deposit__wrapper&quot;]/div[@class=&quot;content__idr&quot;]/div[@class=&quot;content__idr__main&quot;]/div[@class=&quot;content__idr__main__minimum&quot;]/p[1]</value>
+      <webElementGuid>a017dbc1-e507-4a8c-9cc8-448822bd8f92</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[3]/div/div/div[2]/div[2]/div[2]/p</value>
+      <webElementGuid>67cf43fa-dbd6-4198-a05e-b8e448c64a3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Crypto'])[1]/following::p[3]</value>
+      <webElementGuid>451c418d-549b-4fbc-b91f-5e1f11ee5d4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bank Transfer'])[1]/preceding::p[2]</value>
+      <webElementGuid>ed0d11ec-f7c9-495c-afbb-94a025083006</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='E-Wallet'])[1]/preceding::p[2]</value>
+      <webElementGuid>ab26cb7a-ee86-40ac-af43-37074e5f98ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Minimum Top Up: Rp 10,000']/parent::*</value>
+      <webElementGuid>7cdc4923-5a41-4312-95a0-1f91454a8df5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/p</value>
+      <webElementGuid>f19bd5e6-67df-4326-b321-5e572dca1553</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Minimum Top Up: Rp 10,000' or . = 'Minimum Top Up: Rp 10,000')]</value>
+      <webElementGuid>abdd7ea2-2f3e-4081-9af6-88337427c0fe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

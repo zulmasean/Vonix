@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ALGORAND</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a61c15d7-dbea-4cc3-9226-df4752ec9248</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>82a6e87c-223c-470d-bae3-29e9faea7b61</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>82a6e87c-223c-470d-bae3-29e9faea7b61</id>
+      <masked>false</masked>
+      <name>input_ALGORAND</name>
+   </variable>
+</TestCaseEntity>

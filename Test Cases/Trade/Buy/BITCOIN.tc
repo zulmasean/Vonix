@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BITCOIN</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>828f7d70-9359-43b0-b88a-6282c964acac</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a9345393-2c13-411a-85f8-0a250241247b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a9345393-2c13-411a-85f8-0a250241247b</id>
+      <masked>false</masked>
+      <name>input_BTC</name>
+   </variable>
+</TestCaseEntity>

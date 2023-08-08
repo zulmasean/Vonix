@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>POLYGON</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d13409a0-ab05-497a-afb4-f736f88fa4ab</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>60adbaa2-cf1a-4299-910e-10bc6e4b35e4</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>60adbaa2-cf1a-4299-910e-10bc6e4b35e4</id>
+      <masked>false</masked>
+      <name>input_MATIC</name>
+   </variable>
+</TestCaseEntity>

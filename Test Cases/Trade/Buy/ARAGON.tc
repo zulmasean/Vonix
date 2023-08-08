@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ARAGON</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cb041429-4e12-4789-ac8d-2884cf398b4b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c6f5988d-19d8-42ec-b1b4-d31d4b443047</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c6f5988d-19d8-42ec-b1b4-d31d4b443047</id>
+      <masked>false</masked>
+      <name>input_ARAGON</name>
+   </variable>
+</TestCaseEntity>

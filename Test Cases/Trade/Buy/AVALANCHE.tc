@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AVALANCHE</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>636fa17c-6d83-4d06-b94d-edf66ec8228d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9df62557-43bb-4b7d-b36c-48d2cbbe900d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9df62557-43bb-4b7d-b36c-48d2cbbe900d</id>
+      <masked>false</masked>
+      <name>input_AVALANCHE</name>
+   </variable>
+</TestCaseEntity>

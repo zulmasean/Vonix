@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>APENFT</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2dd11b8c-777d-47ba-88be-c7f63752d01b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ef382562-2523-4c85-8d5d-f44e6df6d6b1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ef382562-2523-4c85-8d5d-f44e6df6d6b1</id>
+      <masked>false</masked>
+      <name>input_APENFT</name>
+   </variable>
+</TestCaseEntity>

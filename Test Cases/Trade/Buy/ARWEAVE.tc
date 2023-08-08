@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ARWEAVE</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5410d76e-375d-414d-b556-27c355d0579b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a3fe5b29-d30a-408d-9791-faca692a0ca6</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a3fe5b29-d30a-408d-9791-faca692a0ca6</id>
+      <masked>false</masked>
+      <name>input_ARWAVE</name>
+   </variable>
+</TestCaseEntity>

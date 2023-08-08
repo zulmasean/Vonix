@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Make Deposit</name>
+   <tag></tag>
+   <elementGuidId>19ea63a9-f13b-43b7-a553-a3f07b37f90c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.vx-btn-md.vx-btn-primary.bd-2.with-icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[7]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;app&quot;)/div[@class=&quot;vx-app&quot;]/div[@class=&quot;app-content&quot;]/div[@class=&quot;deposit&quot;]/div[@class=&quot;deposit__wrapper&quot;]/div[@class=&quot;content__idr&quot;]/div[@class=&quot;content__idr__main&quot;]/div[@class=&quot;content__idr__main__method&quot;]/div[@class=&quot;bank&quot;]/button[@class=&quot;vx-btn-md vx-btn-primary bd-2 with-icon&quot;][count(. | //button[@type = 'button' and @class = 'vx-btn-md vx-btn-primary bd-2 with-icon' and @data-test = 'button-make-deposit' and (text() = 'Make Deposit ' or . = 'Make Deposit ')]) = count(//button[@type = 'button' and @class = 'vx-btn-md vx-btn-primary bd-2 with-icon' and @data-test = 'button-make-deposit' and (text() = 'Make Deposit ' or . = 'Make Deposit ')])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8f190c44-278d-4826-b399-c0f17131f3cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5828bfac-87a7-4d42-9a09-5df529492e34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vx-btn-md vx-btn-primary bd-2 with-icon</value>
+      <webElementGuid>d074960c-5923-4d0e-b4aa-65a578c6b027</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-test</name>
+      <type>Main</type>
+      <value>button-make-deposit</value>
+      <webElementGuid>65202914-d5dc-4e2f-b567-a85d236e01db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Make Deposit </value>
+      <webElementGuid>6d07758a-ca8a-405b-abd9-a1e4e94b64db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;vx-app&quot;]/div[@class=&quot;app-content&quot;]/div[@class=&quot;deposit&quot;]/div[@class=&quot;deposit__wrapper&quot;]/div[@class=&quot;content__idr&quot;]/div[@class=&quot;content__idr__main&quot;]/div[@class=&quot;content__idr__main__method&quot;]/div[@class=&quot;bank&quot;]/button[@class=&quot;vx-btn-md vx-btn-primary bd-2 with-icon&quot;]</value>
+      <webElementGuid>632f76e2-39d1-4c67-9368-aff32b2b48b7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[7]</value>
+      <webElementGuid>d5453fbb-ae50-4170-a6be-24de4425341e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[3]/div/div/div[2]/div[2]/div[3]/div[2]/button</value>
+      <webElementGuid>9f35756a-f402-4bae-a70f-f12a36eb0c3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bank Mandiri'])[1]/following::button[1]</value>
+      <webElementGuid>94cd48d3-4067-40d5-ac40-f2ff6dc6ae1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Qris'])[1]/following::button[1]</value>
+      <webElementGuid>98302e02-c4f1-4984-a52b-25c74bb01592</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Market'])[3]/preceding::button[1]</value>
+      <webElementGuid>5b4fe359-753c-492a-a483-68da874bbe83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Coins'])[3]/preceding::button[2]</value>
+      <webElementGuid>41152d23-0ac0-499b-8e9f-e2abf3521fa4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Make Deposit']/parent::*</value>
+      <webElementGuid>828dff3a-780d-454e-bd13-7f11262f2303</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>7ea6b0e0-9f88-401a-8699-fd548e7376d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Make Deposit ' or . = 'Make Deposit ')]</value>
+      <webElementGuid>b6de3f17-2f3d-4117-8a5c-31c4a79ae5ce</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

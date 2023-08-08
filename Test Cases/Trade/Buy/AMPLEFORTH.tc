@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AMPLEFORTH</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9c1a6c44-530e-46f2-a8de-91fa4756095a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5e0136a3-864c-4280-93c5-5fae8d2c1f4a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5e0136a3-864c-4280-93c5-5fae8d2c1f4a</id>
+      <masked>false</masked>
+      <name>input_AMPLEFORTH</name>
+   </variable>
+</TestCaseEntity>

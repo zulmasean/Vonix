@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Retake</name>
+   <tag></tag>
+   <elementGuidId>5d96c829-9c86-4be3-8acc-633410f7f59c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ots-picture__action > button.vx-btn-md.vx-btn-gradient.bd-2.with-icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>010cc721-a04b-4b10-8101-bf0430940986</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>25f8c2d0-b8c9-4848-9261-047705fde781</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vx-btn-md vx-btn-gradient bd-2 with-icon</value>
+      <webElementGuid>3dac06b2-7824-4f58-b6dc-3d7b43ad0ec1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Retake</value>
+      <webElementGuid>03194106-7ce6-4b62-bbd8-30a89a4bff1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;vx-app&quot;]/div[1]/div[@class=&quot;vx-kyc__container&quot;]/div[@class=&quot;vx-kyc__content&quot;]/section[1]/div[@class=&quot;frontId&quot;]/div[@class=&quot;ots-picture&quot;]/div[@class=&quot;ots-picture__action&quot;]/button[@class=&quot;vx-btn-md vx-btn-gradient bd-2 with-icon&quot;]</value>
+      <webElementGuid>fb7d3896-5c35-4453-ba49-68186c3f860b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[2]</value>
+      <webElementGuid>2f587449-ae82-4f8d-8d08-49e6936a7ecd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div/div[2]/section/div/div[2]/div[2]/button</value>
+      <webElementGuid>3f42f7ab-9f29-4bdf-ac7d-2ac807704a22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Retake'])[1]/following::button[1]</value>
+      <webElementGuid>6d742535-6dc6-4d4a-894e-5f66f3027f0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Visibility: Invalid'])[1]/following::button[1]</value>
+      <webElementGuid>679ec69a-78f2-4a50-b860-9c26ab15fd4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>e094b5e7-65a8-4c3f-954b-53f6cac9247c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = ' Retake' or . = ' Retake')]</value>
+      <webElementGuid>77ec5a80-b13f-4686-9244-564e1d6df0b0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

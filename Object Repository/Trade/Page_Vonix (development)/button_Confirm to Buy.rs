@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Confirm to Buy</name>
+   <tag></tag>
+   <elementGuidId>2738499f-1e8b-40c8-a4a7-caf0f4c91ca0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.vx-btn-md.vx-btn-primary.bd-2.with-icon</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;app&quot;)/div[@class=&quot;vx-app&quot;]/div[@class=&quot;app-content&quot;]/div[@class=&quot;buysell&quot;]/div[@class=&quot;buysell__wrapper&quot;]/div[@class=&quot;buysell__confirm&quot;]/div[@class=&quot;confirmation-buysell&quot;]/div[@class=&quot;confirmation-buysell__wrapper&quot;]/div[@class=&quot;confirmation-buysell__content&quot;]/div[@class=&quot;confirmation-buysell__content__footer&quot;]/button[@class=&quot;vx-btn-md vx-btn-primary bd-2 with-icon&quot;][count(. | //button[@type = 'button' and @class = 'vx-btn-md vx-btn-primary bd-2 with-icon' and (text() = 'Confirm to Buy ' or . = 'Confirm to Buy ')]) = count(//button[@type = 'button' and @class = 'vx-btn-md vx-btn-primary bd-2 with-icon' and (text() = 'Confirm to Buy ' or . = 'Confirm to Buy ')])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[7]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4b23a047-3e64-48d6-95a7-0f2c7cef525d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c41ae98f-49ce-4aa2-a57d-b153d5027bd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vx-btn-md vx-btn-primary bd-2 with-icon</value>
+      <webElementGuid>35d12ba1-f647-437f-a288-4005b0e6f4ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Confirm to Buy </value>
+      <webElementGuid>1c81b308-e210-4778-bd14-7863d05c795d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;vx-app&quot;]/div[@class=&quot;app-content&quot;]/div[@class=&quot;buysell&quot;]/div[@class=&quot;buysell__wrapper&quot;]/div[@class=&quot;buysell__confirm&quot;]/div[@class=&quot;confirmation-buysell&quot;]/div[@class=&quot;confirmation-buysell__wrapper&quot;]/div[@class=&quot;confirmation-buysell__content&quot;]/div[@class=&quot;confirmation-buysell__content__footer&quot;]/button[@class=&quot;vx-btn-md vx-btn-primary bd-2 with-icon&quot;]</value>
+      <webElementGuid>dabe4e80-5435-4870-bd43-aa2d58cccdd0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[7]</value>
+      <webElementGuid>59320b22-cffa-4809-bddc-9488db002a02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[3]/div/div/div/div/div/div/div[3]/button</value>
+      <webElementGuid>e37a885d-c952-47fa-9bee-5e428103fe55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Purchase Details'])[1]/following::button[1]</value>
+      <webElementGuid>2314c71c-7cc2-4bdb-b8a9-95bab9650f3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Purchase of'])[1]/following::button[1]</value>
+      <webElementGuid>f0601504-1cb8-4d9f-b60c-8bb7c51931ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Market'])[3]/preceding::button[2]</value>
+      <webElementGuid>c5106072-db48-4e68-b7a6-6520da3151dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Confirm to Buy']/parent::*</value>
+      <webElementGuid>1bec20a0-6714-4c9e-a22c-7e950d27e603</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button</value>
+      <webElementGuid>d2818eda-0ade-4f49-a7e4-8870c6e994e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Confirm to Buy ' or . = 'Confirm to Buy ')]</value>
+      <webElementGuid>9e783d1c-f153-4f8e-872b-4d9b6f2f7f89</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

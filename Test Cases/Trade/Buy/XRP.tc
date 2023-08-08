@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>XRP</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e6c83e24-eaf1-421c-acb2-a9dbe20f1dd2</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>62075eab-93dd-476d-b57b-87a493d37e4b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>62075eab-93dd-476d-b57b-87a493d37e4b</id>
+      <masked>false</masked>
+      <name>input_XRP</name>
+   </variable>
+</TestCaseEntity>

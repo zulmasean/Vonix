@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BNB</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e5c00568-207b-411c-b958-637c93eb9578</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>191fa809-9b41-4ffe-9afc-3c9d91543e11</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>191fa809-9b41-4ffe-9afc-3c9d91543e11</id>
+      <masked>false</masked>
+      <name>input_BNB</name>
+   </variable>
+</TestCaseEntity>

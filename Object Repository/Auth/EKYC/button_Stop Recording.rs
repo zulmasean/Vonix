@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Stop Recording</name>
+   <tag></tag>
+   <elementGuidId>a53ca42e-d8d2-450c-9fa6-ea51d6a6b47f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>aef708ec-09d8-48d6-b970-3c9d823b3f60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9cae66a2-a09c-43d7-8f37-4c697402bbf6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vx-btn-lg vx-btn-gradient bd-2 with-icon</value>
+      <webElementGuid>72a85efc-a4f2-411f-8282-87d89e6976e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Stop Recording</value>
+      <webElementGuid>32955762-77e8-437e-85bf-29776992130a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;vx-app&quot;]/div[1]/div[@class=&quot;vx-kyc__container&quot;]/div[@class=&quot;vx-kyc__content&quot;]/section[1]/div[@class=&quot;record&quot;]/section[@class=&quot;record__video&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;action&quot;]/button[@class=&quot;vx-btn-lg vx-btn-gradient bd-2 with-icon&quot;]</value>
+      <webElementGuid>e6617a9b-87ef-4ae6-913e-8ad5c9c7f003</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[4]</value>
+      <webElementGuid>1b0d6975-46fc-4ae3-a009-cf1f0d625bb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div/div[2]/section/div/section[2]/div[2]/div[4]/button[2]</value>
+      <webElementGuid>53c44804-2091-4099-a3b0-6b7c667e06c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Permission Denied'])[1]/following::button[2]</value>
+      <webElementGuid>d04b4253-4796-41de-80d0-6be1088505da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Stop Recording']/parent::*</value>
+      <webElementGuid>224772cb-3e7c-49a3-91e3-de28dee6ef71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/button[2]</value>
+      <webElementGuid>d1a046f3-90cc-4215-981c-9733d0cc2cf6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = ' Stop Recording' or . = ' Stop Recording')]</value>
+      <webElementGuid>c125a616-db77-4370-ac01-12e3cb4fcc8e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

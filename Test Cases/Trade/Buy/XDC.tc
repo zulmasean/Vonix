@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>XDC</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>55fdd014-5eef-42e6-a6c5-9daf93cb44f6</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>acf0ea75-c1c2-4a53-b572-71875f8f7a30</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>acf0ea75-c1c2-4a53-b572-71875f8f7a30</id>
+      <masked>false</masked>
+      <name>input_XDC</name>
+   </variable>
+</TestCaseEntity>

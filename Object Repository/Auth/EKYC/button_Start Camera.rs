@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Start Camera</name>
+   <tag></tag>
+   <elementGuidId>4564b32f-da41-40b3-9f4a-93854cda2fb5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.vx-btn-md.vx-btn-gradient.bd-2.with-icon</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and (text() = ' Start Camera' or . = ' Start Camera')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='button']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3ea1456b-9bac-4858-956a-79fdb23cdc08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c5194076-bcf2-47bb-9a79-174d64f84f5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vx-btn-md vx-btn-gradient bd-2 with-icon</value>
+      <webElementGuid>e0d32d02-413b-4af7-81b7-95a075164db7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Start Camera</value>
+      <webElementGuid>8f43bdee-8c3d-44c5-889d-059f140097c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;vx-app&quot;]/div[1]/div[@class=&quot;vx-kyc__container&quot;]/div[@class=&quot;vx-kyc__content&quot;]/section[1]/div[@class=&quot;frontId&quot;]/div[@class=&quot;ots-picture&quot;]/div[@class=&quot;ots-picture__camera&quot;]/div[@class=&quot;ots-picture__camera__closed&quot;]/button[@class=&quot;vx-btn-md vx-btn-gradient bd-2 with-icon&quot;]</value>
+      <webElementGuid>77a55d64-92f0-4f39-8f4a-64422f4993d8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='button']</value>
+      <webElementGuid>6cf975ab-4fb7-4281-a616-be1af1f685f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div/div[2]/section/div/div[2]/div/div/button</value>
+      <webElementGuid>77d6346b-1b11-4624-89f2-14b466f79c0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Us'])[1]/following::button[1]</value>
+      <webElementGuid>f7e28fd6-e6c2-4c7e-831d-08b2f249b4e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='File Size: 0 MB'])[1]/preceding::button[2]</value>
+      <webElementGuid>03e304fa-da5d-4066-8aa7-586afc0247e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Start Camera']/parent::*</value>
+      <webElementGuid>0e062b42-751b-49ff-91b4-aa7e8e9f96e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>04514b94-c0a2-4b42-9875-70774b8859be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = ' Start Camera' or . = ' Start Camera')]</value>
+      <webElementGuid>f0eb8ea4-808f-429e-8956-af1870f1cc44</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LITECOIN</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>af961648-9a94-4142-99d8-f9f35373d9ec</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a14eba08-660f-4aa3-b8b6-b611108fb4ae</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a14eba08-660f-4aa3-b8b6-b611108fb4ae</id>
+      <masked>false</masked>
+      <name>input_LTC</name>
+   </variable>
+</TestCaseEntity>

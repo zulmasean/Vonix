@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>POLKADOT</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0622826e-60a0-4f78-915b-1217399b4bb8</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c2f13557-77da-4936-9d72-132869fe6643</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c2f13557-77da-4936-9d72-132869fe6643</id>
+      <masked>false</masked>
+      <name>input_DOT</name>
+   </variable>
+</TestCaseEntity>

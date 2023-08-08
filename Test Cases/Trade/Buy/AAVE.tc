@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AAVE</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>57a53f6a-5f50-4f0e-a62b-17ecd84ae06b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6956d4da-0ddd-4be9-a91c-7e0480f3a500</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6956d4da-0ddd-4be9-a91c-7e0480f3a500</id>
+      <masked>false</masked>
+      <name>input_AAVE</name>
+   </variable>
+</TestCaseEntity>

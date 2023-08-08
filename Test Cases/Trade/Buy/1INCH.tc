@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>1INCH</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>19a49b8d-b45c-4fc5-b97e-0e988edb9794</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9dc46631-c12e-4ee6-9f16-8c60fd8f5e91</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9dc46631-c12e-4ee6-9f16-8c60fd8f5e91</id>
+      <masked>false</masked>
+      <name>input_INCH</name>
+   </variable>
+</TestCaseEntity>

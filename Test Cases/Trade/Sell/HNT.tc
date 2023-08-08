@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>HNT</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>21f82dcc-8166-4366-85d9-bccd1bdfeaae</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>475f32b2-4655-40ef-b2ba-b6fdb01de873</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>475f32b2-4655-40ef-b2ba-b6fdb01de873</id>
+      <masked>false</masked>
+      <name>input_HNT</name>
+   </variable>
+</TestCaseEntity>

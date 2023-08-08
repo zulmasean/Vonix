@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Trade_New</name>
+   <tag></tag>
+   <elementGuidId>5f3debd7-ad98-4372-9f88-bf8035248769</elementGuidId>
+   <imagePath></imagePath>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/header/div/nav/div/ul/li[2]/div/p</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;app&quot;)/div[@class=&quot;vx-app&quot;]/header[1]/div[@class=&quot;navbar-container fixed fixed--top&quot;]/nav[@class=&quot;navbar&quot;]/div[@class=&quot;navbar__wrapper&quot;]/ul[@class=&quot;navbar__links&quot;]/li[2]/div[@class=&quot;dropdown-links isShow&quot;]/p[@class=&quot;dropdown-title&quot;][count(. | //p[@class = 'dropdown-title' and (text() = 'Trade ' or . = 'Trade ')]) = count(//p[@class = 'dropdown-title' and (text() = 'Trade ' or . = 'Trade ')])]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.dropdown-links.isShow > p.dropdown-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>9c286683-cbc0-424e-baf4-e060ce4d4c63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-title</value>
+      <webElementGuid>dbfcaf1d-c571-46ab-93b8-a1c4ce463b1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Trade </value>
+      <webElementGuid>94c839a0-f8e8-4c71-ad83-71d5e1643b37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;vx-app&quot;]/header[1]/div[@class=&quot;navbar-container fixed fixed--top&quot;]/nav[@class=&quot;navbar&quot;]/div[@class=&quot;navbar__wrapper&quot;]/ul[@class=&quot;navbar__links&quot;]/li[2]/div[@class=&quot;dropdown-links isShow&quot;]/p[@class=&quot;dropdown-title&quot;]</value>
+      <webElementGuid>bb119251-e9cc-4875-aff7-24bffa1212b2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/header/div/nav/div/ul/li[2]/div/p</value>
+      <webElementGuid>d987a3c1-e40a-4c14-8ec5-ef662ba0796f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='See what’s happening in crypto'])[1]/following::p[1]</value>
+      <webElementGuid>b9728cf5-52d3-4fdd-879d-b37d36b8019e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Simple and easy Buy / Sell for beginners'])[1]/preceding::p[1]</value>
+      <webElementGuid>47d451a5-3c5a-42ff-93df-adf68ed0767c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/p</value>
+      <webElementGuid>1fea7500-d853-4ba6-9e18-76785b11c1b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Trade ' or . = 'Trade ')]</value>
+      <webElementGuid>038f3fdc-e8b6-4d43-b0ec-f2646074fa2d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

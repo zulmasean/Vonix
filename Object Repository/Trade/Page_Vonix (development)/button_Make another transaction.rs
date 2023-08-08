@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Make another transaction</name>
+   <tag></tag>
+   <elementGuidId>d52d1015-b428-46a6-898c-33051b65f487</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.vx-btn-md.vx-btn-flat-primary.bd-2.with-icon</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;app&quot;)/div[@class=&quot;vx-app&quot;]/div[@class=&quot;app-content&quot;]/div[@class=&quot;buysell&quot;]/div[@class=&quot;buysell__wrapper&quot;]/div[@class=&quot;buysell__status&quot;]/div[@class=&quot;status-buysell&quot;]/div[@class=&quot;status-buysell__wrapper&quot;]/div[@class=&quot;status-buysell__footer&quot;]/button[@class=&quot;vx-btn-md vx-btn-flat-primary bd-2 with-icon&quot;][count(. | //button[@type = 'button' and @class = 'vx-btn-md vx-btn-flat-primary bd-2 with-icon' and (text() = 'Make another transaction ' or . = 'Make another transaction ')]) = count(//button[@type = 'button' and @class = 'vx-btn-md vx-btn-flat-primary bd-2 with-icon' and (text() = 'Make another transaction ' or . = 'Make another transaction ')])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[8]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9ac90165-b4ab-4d16-afdb-777f4d8e20f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>2ffb84e0-a10e-4df4-bfb6-ced98580d5bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vx-btn-md vx-btn-flat-primary bd-2 with-icon</value>
+      <webElementGuid>98aed495-4f75-4b0d-b33f-b35b3597ce78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Make another transaction </value>
+      <webElementGuid>d2a8bcc0-e275-4fd6-945d-db5ffd0c393f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;vx-app&quot;]/div[@class=&quot;app-content&quot;]/div[@class=&quot;buysell&quot;]/div[@class=&quot;buysell__wrapper&quot;]/div[@class=&quot;buysell__status&quot;]/div[@class=&quot;status-buysell&quot;]/div[@class=&quot;status-buysell__wrapper&quot;]/div[@class=&quot;status-buysell__footer&quot;]/button[@class=&quot;vx-btn-md vx-btn-flat-primary bd-2 with-icon&quot;]</value>
+      <webElementGuid>b5380d9f-0861-4906-be68-b325d2ad20ef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[8]</value>
+      <webElementGuid>cd58d333-6e73-416d-a433-ded3d2c0cff4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[3]/div/div/div/div/div/div[3]/button[2]</value>
+      <webElementGuid>bd75088c-c4e5-47c8-887b-a83cb3d32116</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[2]/following::button[2]</value>
+      <webElementGuid>699f79df-44c8-4134-924c-5aece26c1516</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Market'])[3]/preceding::button[1]</value>
+      <webElementGuid>12728f91-6b0e-471a-b505-8b17b4ec4aaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Coins'])[3]/preceding::button[2]</value>
+      <webElementGuid>b78584b4-29f6-4fdf-ba1a-4985ac9cf124</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Make another transaction']/parent::*</value>
+      <webElementGuid>778ec5fc-7c26-41df-928a-2184c0f444ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>a31ac833-f7ca-4a57-b861-3bc5686eab0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Make another transaction ' or . = 'Make another transaction ')]</value>
+      <webElementGuid>d061f57b-09ca-405a-b70b-b1eabdf1858e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

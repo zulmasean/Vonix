@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>API3</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>17b6af66-3634-4600-9952-7c8cebb6a1d9</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2a20e4bc-3e50-4635-97c5-3aa2f64c6581</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2a20e4bc-3e50-4635-97c5-3aa2f64c6581</id>
+      <masked>false</masked>
+      <name>input_API3</name>
+   </variable>
+</TestCaseEntity>

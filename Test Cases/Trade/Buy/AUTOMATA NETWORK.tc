@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AUTOMATA NETWORK</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c9bb3d19-5af4-48c5-b89a-edf8d08305f7</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>13982ab1-9e79-4d58-a797-43720eb9f496</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>13982ab1-9e79-4d58-a797-43720eb9f496</id>
+      <masked>false</masked>
+      <name>input_AUTOMATANETWORK</name>
+   </variable>
+</TestCaseEntity>

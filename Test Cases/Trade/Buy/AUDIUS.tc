@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AUDIUS</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e054e155-5328-4815-a4d0-a9a370d7adcd</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8d35ae80-87df-475e-8c85-c33bcc54c329</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8d35ae80-87df-475e-8c85-c33bcc54c329</id>
+      <masked>false</masked>
+      <name>input_AUDIUS</name>
+   </variable>
+</TestCaseEntity>

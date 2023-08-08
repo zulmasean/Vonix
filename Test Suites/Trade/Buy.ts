@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Buy</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>2df48e85-b072-49c6-8afb-1ca79ef2f298</testSuiteGuid>
+   <testCaseLink>
+      <guid>b7b45e84-7166-497c-8c25-7a053d377edb</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Auth/LoginDevelopment</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>6e500a16-1c37-45f5-a1d6-b1006fa558e9</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/Auth/Login</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>1f9f375c-b3f0-4ecd-8b74-675e8f4fe9df</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <iterationNameVariable>
+         <defaultValue>''</defaultValue>
+         <description></description>
+         <id>ccbd8f89-b51d-44ba-9064-190dc50cba33</id>
+         <masked>false</masked>
+         <name>input_HNT</name>
+      </iterationNameVariable>
+      <testCaseId>Test Cases/Trade/Buy/HNT</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>d3c03eca-5ea9-427a-8893-b4b402d77375</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/HNT</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>d3c03eca-5ea9-427a-8893-b4b402d77375</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>input_HNT</value>
+         <variableId>ccbd8f89-b51d-44ba-9064-190dc50cba33</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>619e6cb7-0446-4d48-9164-1cd52c4d66c7</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/Trade/Sell/HNT</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>8677f8b5-f6ce-45a4-af8f-bdff12f2916c</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/HNT</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>8677f8b5-f6ce-45a4-af8f-bdff12f2916c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>input_HNT</value>
+         <variableId>475f32b2-4655-40ef-b2ba-b6fdb01de873</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>778d8ebf-629c-4836-a6bb-e9ed6b4ffa9b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Trade/Buy/XDC</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>df226969-f5d2-4c66-bd60-54fd67a1d1fc</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/XDC</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>df226969-f5d2-4c66-bd60-54fd67a1d1fc</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>input_XDC</value>
+         <variableId>acf0ea75-c1c2-4a53-b572-71875f8f7a30</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>be6d7ecc-db93-46d1-a8d8-24a7bf5c8274</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Trade/Sell/XDC</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>72cd977f-d9ed-43dd-a6b1-aa24121c6e54</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/XDC</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>72cd977f-d9ed-43dd-a6b1-aa24121c6e54</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>input_XDC</value>
+         <variableId>5a818c83-2931-4d6c-a9f4-e5f5b74fb952</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>d1da442b-4aab-4fac-ada1-ea6934f15ca1</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/Trade/Buy/HNT</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>33c867ef-cdee-431a-865e-5ea4fb119601</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/HNT</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>33c867ef-cdee-431a-865e-5ea4fb119601</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>input_HNT</value>
+         <variableId>ccbd8f89-b51d-44ba-9064-190dc50cba33</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>a52ba7f9-c05f-4082-9702-98a414aedc9c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/Trade/Sell/HNT</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>8d706686-dace-4207-9b87-11b69d36a612</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/HNT</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>8d706686-dace-4207-9b87-11b69d36a612</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>input_HNT</value>
+         <variableId>475f32b2-4655-40ef-b2ba-b6fdb01de873</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>c2753cc9-56f5-4933-890e-d404ba9b772d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/Trade/Buy/XDC</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>32125efe-42d9-4439-8d97-d17c6b1481e1</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/XDC</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>32125efe-42d9-4439-8d97-d17c6b1481e1</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>input_XDC</value>
+         <variableId>acf0ea75-c1c2-4a53-b572-71875f8f7a30</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>086d5180-0a71-4607-ba66-bd5b4793a78a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/Trade/Sell/XDC</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>22b69681-85bc-4e12-8c02-4d20d69e755f</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/XDC</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>22b69681-85bc-4e12-8c02-4d20d69e755f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>input_XDC</value>
+         <variableId>5a818c83-2931-4d6c-a9f4-e5f5b74fb952</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

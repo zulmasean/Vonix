@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>STELLAR</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8b5ea48d-a96a-44c5-8a53-0b71612d2e71</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>53048cad-587d-4407-92c9-1e7da76d4d2d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>53048cad-587d-4407-92c9-1e7da76d4d2d</id>
+      <masked>false</masked>
+      <name>input_STELLAR</name>
+   </variable>
+</TestCaseEntity>

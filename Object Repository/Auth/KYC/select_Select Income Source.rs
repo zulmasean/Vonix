@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select Income Source</name>
+   <tag></tag>
+   <elementGuidId>39946ca2-81cc-4705-9244-6e1499ec0079</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>select.ic-dropdown</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>02f557fa-7299-4df5-b826-84ff647b9dbf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ic-dropdown</value>
+      <webElementGuid>1efba989-ee21-4979-a8d5-942d0b5060c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Income SourceParentsSpousePension FundSalaryBusiness</value>
+      <webElementGuid>ddd82949-853e-45b1-8929-665d814e76e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;vx-app&quot;]/div[1]/div[@class=&quot;vx-kyc__container&quot;]/div[@class=&quot;vx-kyc__content&quot;]/section[1]/div[@class=&quot;additional&quot;]/section[@class=&quot;additional__form&quot;]/div[1]/form[1]/div[@class=&quot;vx-select review__input-group&quot;]/select[@class=&quot;ic-dropdown&quot;]</value>
+      <webElementGuid>5a8be90b-3cca-4533-984a-e57b3dd8baa1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='']</value>
+      <webElementGuid>bcc6cf9c-9bba-4419-a012-0febd6404dc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div/div[2]/section/div/section[2]/div/form/div[10]/select</value>
+      <webElementGuid>57c63eab-8e43-4b92-9f07-f6f1f088b7b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Source of Income'])[1]/following::select[1]</value>
+      <webElementGuid>4af0e6a3-4eb2-4d07-81cd-1c3753412e55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Mother', &quot;'&quot;, 's Maiden Name')])[1]/following::select[1]</value>
+      <webElementGuid>e122eafa-e85c-4a76-8fd8-67b1b6c20cd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Purpose of Transaction'])[1]/preceding::select[1]</value>
+      <webElementGuid>35f250e0-4cdb-46fe-95d6-2103a74e4e73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Estimated Income per year'])[1]/preceding::select[2]</value>
+      <webElementGuid>8b0e0bdb-ebea-4fb6-b2b4-3153cc461575</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>8757497c-317f-49c2-9c66-43439740b949</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = 'Select Income SourceParentsSpousePension FundSalaryBusiness' or . = 'Select Income SourceParentsSpousePension FundSalaryBusiness')]</value>
+      <webElementGuid>6e12cd2c-1708-4aa5-83de-a8ba0392e192</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

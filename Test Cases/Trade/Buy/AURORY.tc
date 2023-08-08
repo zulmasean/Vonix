@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AURORY</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3f63e546-f62a-4ff3-bb4a-34a9e1519482</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>24e54007-ca4d-415d-9a93-1822ce388c11</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>24e54007-ca4d-415d-9a93-1822ce388c11</id>
+      <masked>false</masked>
+      <name>input_AURORY</name>
+   </variable>
+</TestCaseEntity>

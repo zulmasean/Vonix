@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Record Personal Statement (24)_p-checkbox-box</name>
+   <tag></tag>
+   <elementGuidId>d8ab0e8c-3fc0-4a2d-9e55-bfa6604639b1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.p-checkbox-box</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='agree']/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4af253ea-45d8-4a34-b653-4eb531af6e56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-checkbox-box</value>
+      <webElementGuid>ddab2e32-d0ad-49e4-97ff-6c495a329bf5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;agree&quot;)/div[@class=&quot;p-checkbox-box&quot;]</value>
+      <webElementGuid>2d0741bd-d733-49d5-8155-937d98196408</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='agree']/div[2]</value>
+      <webElementGuid>46eddc7c-e6f2-459d-a36a-f96c8b02758e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Record Personal Statement (2/4)'])[1]/following::div[8]</value>
+      <webElementGuid>b20ac729-ad09-4e75-b657-7e840c46db15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ID'])[1]/following::div[10]</value>
+      <webElementGuid>ff64237a-0d5a-43fc-b4bb-14d6208ab59c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I understand and agree to continue the process'])[1]/preceding::div[1]</value>
+      <webElementGuid>36683c5a-746e-4aa5-8c6e-b429af2314e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div[2]/div/div[2]</value>
+      <webElementGuid>abd30c48-0981-48c0-b412-7aab9d9775f7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select Transaction</name>
+   <tag></tag>
+   <elementGuidId>9b962ce3-4808-4db0-8095-80bdbc16339c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//select[@name=''])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>881c0304-8f68-49ce-8603-13de980da176</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ic-dropdown</value>
+      <webElementGuid>371978ca-c93d-4524-a69e-d1cac91af6a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Transaction PusposeLife NecessitiesFor BusinessSavingsInvestmentOthers</value>
+      <webElementGuid>b6c93ea0-a2c3-4db3-882f-54af046b8f9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;vx-app&quot;]/div[1]/div[@class=&quot;vx-kyc__container&quot;]/div[@class=&quot;vx-kyc__content&quot;]/section[1]/div[@class=&quot;additional&quot;]/section[@class=&quot;additional__form&quot;]/div[1]/form[1]/div[@class=&quot;vx-select review__input-group&quot;]/select[@class=&quot;ic-dropdown&quot;]</value>
+      <webElementGuid>439edb4a-6cc5-40a2-8342-150b2781a266</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//select[@name=''])[2]</value>
+      <webElementGuid>7c604615-7ec1-4060-a96b-fcf78d3ee37a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div/div[2]/section/div/section[2]/div/form/div[11]/select</value>
+      <webElementGuid>918c162d-2b90-482b-9d84-ee9129001802</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Purpose of Transaction'])[1]/following::select[1]</value>
+      <webElementGuid>434e14eb-f14a-42d3-9853-3d6dedc35555</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Source of Income'])[1]/following::select[2]</value>
+      <webElementGuid>0329a760-1eb5-4af0-9f2a-2733a726a794</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Estimated Income per year'])[1]/preceding::select[1]</value>
+      <webElementGuid>c5ccfe41-828c-4847-bb28-b1ae65902456</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/select</value>
+      <webElementGuid>abced3a5-bc62-4f76-b702-89a63c090217</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = 'Select Transaction PusposeLife NecessitiesFor BusinessSavingsInvestmentOthers' or . = 'Select Transaction PusposeLife NecessitiesFor BusinessSavingsInvestmentOthers')]</value>
+      <webElementGuid>74061673-f781-4253-839e-136509662b42</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
