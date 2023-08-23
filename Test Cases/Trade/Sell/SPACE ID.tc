@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>DOGECOIN</name>
+   <name>SPACE ID</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>f5a954b6-eb1b-4594-b968-514e15da11a3</testCaseGuid>
+   <testCaseGuid>ed6be6fb-9b7e-4b21-96c1-2af81ccecc19</testCaseGuid>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>a1d50d9b-c0e8-4501-b2f1-7d6563ce80ec</variableId>
+      <variableId>3bab077c-1c38-4a58-8343-80a24d86b326</variableId>
    </variableLinks>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>a1d50d9b-c0e8-4501-b2f1-7d6563ce80ec</id>
+      <id>3bab077c-1c38-4a58-8343-80a24d86b326</id>
       <masked>false</masked>
-      <name>input_Dogecoin</name>
+      <name>input_SPACE</name>
    </variable>
 </TestCaseEntity>

@@ -17,21 +17,23 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.delay(5)
+
 WebUI.scrollToPosition(0, 100)
 
 def maxRetriess = 10
 
 for (int i = 1; i <= maxRetriess; i++) {
-    try {
-        WebUI.click(findTestObject('Trade/Page_Vonix (development)/img'))
+	try {
+		WebUI.click(findTestObject('Trade/Page_Vonix (development)/img'))
 
-        break
-    }
-    catch (Exception e) {
-        Thread.sleep(1000)
+		break
+	}
+	catch (Exception e) {
+		Thread.sleep(1000)
 
-        WebUI.refresh()
-    } 
+		WebUI.refresh()
+	}
 }
 
 WebUI.delay(2)
@@ -39,27 +41,28 @@ WebUI.delay(2)
 def maxRetries = 10
 
 for (int i = 1; i <= maxRetries; i++) {
-    try {
-        WebUI.click(findTestObject('Trade/Page_Vonix (development)/span_Dogecoin'))
+	try {
+		WebUI.click(findTestObject('Trade/Page_Vonix (development)/span_SPACE ID'))
 
-        break
-    }
-    catch (Exception e) {
-        Thread.sleep(1000)
+		break
+	}
+	catch (Exception e) {
+		Thread.sleep(1000)
 
-        WebUI.refresh()
+		WebUI.refresh()
 
-        WebUI.click(findTestObject('Trade/Page_Vonix (development)/img'))
-    } 
+		WebUI.click(findTestObject('Trade/Page_Vonix (development)/img'))
+	}
 }
 
-WebUI.setText(findTestObject('Trade/Page_Vonix (development)/input'), input_Dogecoin)
+WebUI.click(findTestObject('Trade/Sell/Page_Vonix (development)/span_SELL'))
 
-WebUI.click(findTestObject('Trade/Page_Vonix (development)/div_Top Up_p-checkbox-box'))
+WebUI.setText(findTestObject('Trade/Page_Vonix (development)/input'), input_SPACE)
 
-WebUI.click(findTestObject('Trade/Page_Vonix (development)/button_BUY'))
+WebUI.click(findTestObject('Trade/Sell/Page_Vonix (development)/div_(selected 100)_p-checkbox-box'))
 
-WebUI.click(findTestObject('Trade/Page_Vonix (development)/button_Confirm to Buy'))
+WebUI.click(findTestObject('Trade/Sell/Page_Vonix (development)/button_SELL'))
+
+WebUI.click(findTestObject('Trade/Sell/Page_Vonix (development)/button_Confirm to Sell'))
 
 WebUI.click(findTestObject('Trade/Page_Vonix (development)/button_Make another transaction'))
-

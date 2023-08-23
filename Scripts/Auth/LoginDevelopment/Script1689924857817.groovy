@@ -33,7 +33,9 @@ WebUI.click(findTestObject('Object Repository/VX_Login/Page_Vonix (development)/
 
 WebUI.delay(5)
 
-WebUI.click(findTestObject('Trade/Page_Vonix (development)/p_Trade'))
+WebUI.navigateToUrl('https://dev.vonix.id/trade/easynew/btc-usdt')
 
-WebUI.click(findTestObject('Auth/a_Easy Trade New'))
+//WebUI.click(findTestObject('Trade/Page_Vonix (development)/p_Trade'))
+//
+//WebUI.click(findTestObject('Auth/a_Easy Trade New'))
 

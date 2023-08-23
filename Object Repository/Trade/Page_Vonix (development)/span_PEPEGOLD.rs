@@ -1,21 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Dogecoin</name>
+   <name>span_PEPEGOLD</name>
    <tag></tag>
-   <elementGuidId>9cb8e409-bff5-4625-a1d7-b840e022eca5</elementGuidId>
+   <elementGuidId>34a08548-c137-44d6-a83d-004b8565f78d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='close']/div/div[3]/div[3]/div[2]/div[2]/p/span</value>
-      </entry>
-      <entry>
-         <key>BASIC</key>
-         <value>//*[(text() = 'Dogecoin' or . = 'Dogecoin')]</value>
+         <value>//div[@id='close']/div/div[3]/div[2]/div[2]/div[2]/p/span</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
+         <value>p > span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -26,15 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>6ae1444a-6ff1-4b5e-bad3-274c86fbc367</webElementGuid>
+      <webElementGuid>f6c8f0fe-5a02-4d8c-ac36-43cd068d14f3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Dogecoin</value>
-      <webElementGuid>5bf6a7c2-a206-42a0-92c0-69175456717a</webElementGuid>
+      <value>PEPEGOLD</value>
+      <webElementGuid>0a2abb26-2636-40e8-948c-c46a022c8a62</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -42,70 +38,70 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;close&quot;)/div[@class=&quot;vx-modal__container animate__animated animate__fadeIn md&quot;]/div[@class=&quot;modal-select-crypto__test&quot;]/div[@class=&quot;modal-select-crypto__item&quot;]/div[@class=&quot;flex gap-3 modal-select-crypto__item__fav&quot;]/div[@class=&quot;modal-select-crypto__item__details&quot;]/p[1]/span[1]</value>
-      <webElementGuid>1d36e963-9c55-4bda-aeed-61bf8b004988</webElementGuid>
+      <webElementGuid>32543f58-8cf8-469c-8b48-68de0ff1bf17</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='close']/div/div[3]/div[3]/div[2]/div[2]/p/span</value>
-      <webElementGuid>2700cfd5-1fc5-4ee4-85df-8ab241dee816</webElementGuid>
+      <value>//div[@id='close']/div/div[3]/div[2]/div[2]/div[2]/p/span</value>
+      <webElementGuid>ed7cabeb-c6a5-406a-8f9b-0a862d7d6b09</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='DODO'])[1]/following::span[1]</value>
-      <webElementGuid>f87abef0-261c-429f-a447-38bd6d01c668</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/following::span[1]</value>
+      <webElementGuid>656f2916-1800-4c48-a15d-f21f1575e349</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/following::span[2]</value>
-      <webElementGuid>b5ad62e4-6f1c-4406-bef9-28b8e07add00</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[2]/following::span[1]</value>
+      <webElementGuid>9c7cf585-7f0d-4da4-a196-24527dd0fd2c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='ETHDOWN'])[1]/preceding::span[1]</value>
-      <webElementGuid>ad46ae05-7430-4781-85f6-8ab7fe03e840</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BUY'])[1]/preceding::span[1]</value>
+      <webElementGuid>c819cfdb-445e-447d-83f3-b563b41043e9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Komodo'])[1]/preceding::span[2]</value>
-      <webElementGuid>28fdf43a-941e-4585-8b7e-9efb5ad0a6de</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SELL'])[1]/preceding::span[2]</value>
+      <webElementGuid>2d3aed51-7a96-42ac-93dd-0afafab425a5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Dogecoin']/parent::*</value>
-      <webElementGuid>c4dd102b-c924-4a16-bc8d-9621a0301e5c</webElementGuid>
+      <value>//*/text()[normalize-space(.)='PEPEGOLD']/parent::*</value>
+      <webElementGuid>daf3f02c-f4ac-42de-bfe4-2525f802acad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/div[2]/div[2]/p/span</value>
-      <webElementGuid>7a7bec8c-8fa3-46d7-8f40-2d8cd4a9f675</webElementGuid>
+      <value>//p/span</value>
+      <webElementGuid>ce8f659a-88cf-493c-91da-ce03778b5aa1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = 'Dogecoin' or . = 'Dogecoin')]</value>
-      <webElementGuid>088e5220-c63d-4d82-a318-5f391a98485a</webElementGuid>
+      <value>//span[(text() = 'PEPEGOLD' or . = 'PEPEGOLD')]</value>
+      <webElementGuid>95f1eb91-fe77-4abe-90ce-14b3055048ac</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

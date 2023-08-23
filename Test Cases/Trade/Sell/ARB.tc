@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>DOGECOIN</name>
+   <name>ARB</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>f5a954b6-eb1b-4594-b968-514e15da11a3</testCaseGuid>
+   <testCaseGuid>c476ea25-32df-4ba3-8edb-5fb501f9e833</testCaseGuid>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>a1d50d9b-c0e8-4501-b2f1-7d6563ce80ec</variableId>
+      <variableId>f3004c20-ec1f-4408-8703-102e658f4dd5</variableId>
    </variableLinks>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>a1d50d9b-c0e8-4501-b2f1-7d6563ce80ec</id>
+      <id>f3004c20-ec1f-4408-8703-102e658f4dd5</id>
       <masked>false</masked>
-      <name>input_Dogecoin</name>
+      <name>input_ARB</name>
    </variable>
 </TestCaseEntity>

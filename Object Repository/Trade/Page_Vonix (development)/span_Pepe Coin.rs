@@ -1,111 +1,111 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Dogecoin</name>
+   <name>span_Pepe Coin</name>
    <tag></tag>
-   <elementGuidId>9cb8e409-bff5-4625-a1d7-b840e022eca5</elementGuidId>
+   <elementGuidId>07c7e3f7-80af-45b3-bce9-56338736dfec</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='close']/div/div[3]/div[3]/div[2]/div[2]/p/span</value>
+         <value>//div[@id='close']/div/div[3]/div[2]/div[2]/div[2]/p/span</value>
       </entry>
       <entry>
          <key>BASIC</key>
-         <value>//*[(text() = 'Dogecoin' or . = 'Dogecoin')]</value>
+         <value>id(&quot;close&quot;)/div[@class=&quot;vx-modal__container animate__animated animate__fadeIn md&quot;]/div[@class=&quot;modal-select-crypto__test&quot;]/div[@class=&quot;modal-select-crypto__item&quot;]/div[@class=&quot;flex gap-3 modal-select-crypto__item__fav&quot;]/div[@class=&quot;modal-select-crypto__item__details&quot;]/p[1]/span[1][count(. | //span[(text() = 'Pepe Coin' or . = 'Pepe Coin')]) = count(//span[(text() = 'Pepe Coin' or . = 'Pepe Coin')])]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
+         <value>p > span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>6ae1444a-6ff1-4b5e-bad3-274c86fbc367</webElementGuid>
+      <webElementGuid>cc3d8a2e-a7a3-4a01-8603-1e8029a03353</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Dogecoin</value>
-      <webElementGuid>5bf6a7c2-a206-42a0-92c0-69175456717a</webElementGuid>
+      <value>Pepe Coin</value>
+      <webElementGuid>87243abd-6569-45c5-9486-c6bdd05d41a7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;close&quot;)/div[@class=&quot;vx-modal__container animate__animated animate__fadeIn md&quot;]/div[@class=&quot;modal-select-crypto__test&quot;]/div[@class=&quot;modal-select-crypto__item&quot;]/div[@class=&quot;flex gap-3 modal-select-crypto__item__fav&quot;]/div[@class=&quot;modal-select-crypto__item__details&quot;]/p[1]/span[1]</value>
-      <webElementGuid>1d36e963-9c55-4bda-aeed-61bf8b004988</webElementGuid>
+      <webElementGuid>f98e37bc-35ee-48fe-bf14-de0157686e50</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='close']/div/div[3]/div[3]/div[2]/div[2]/p/span</value>
-      <webElementGuid>2700cfd5-1fc5-4ee4-85df-8ab241dee816</webElementGuid>
+      <value>//div[@id='close']/div/div[3]/div[2]/div[2]/div[2]/p/span</value>
+      <webElementGuid>91afb70a-e27f-41e8-9faf-a266656db536</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='DODO'])[1]/following::span[1]</value>
-      <webElementGuid>f87abef0-261c-429f-a447-38bd6d01c668</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/following::span[1]</value>
+      <webElementGuid>b14b1699-695c-473e-b06f-a10352fb1a22</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/following::span[2]</value>
-      <webElementGuid>b5ad62e4-6f1c-4406-bef9-28b8e07add00</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[2]/following::span[1]</value>
+      <webElementGuid>1c73e4fc-4abd-49c1-98f9-135db6fed172</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='ETHDOWN'])[1]/preceding::span[1]</value>
-      <webElementGuid>ad46ae05-7430-4781-85f6-8ab7fe03e840</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BUY'])[1]/preceding::span[1]</value>
+      <webElementGuid>ccae07cb-9304-4eb5-b9dc-5443ee32c701</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Komodo'])[1]/preceding::span[2]</value>
-      <webElementGuid>28fdf43a-941e-4585-8b7e-9efb5ad0a6de</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SELL'])[1]/preceding::span[2]</value>
+      <webElementGuid>c1749c63-08d8-4edb-8365-8eedca102b43</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Dogecoin']/parent::*</value>
-      <webElementGuid>c4dd102b-c924-4a16-bc8d-9621a0301e5c</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Pepe Coin']/parent::*</value>
+      <webElementGuid>bcbab3b1-1b78-4fa4-99eb-9c8e76e7489a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/div[2]/div[2]/p/span</value>
-      <webElementGuid>7a7bec8c-8fa3-46d7-8f40-2d8cd4a9f675</webElementGuid>
+      <value>//p/span</value>
+      <webElementGuid>4b939d61-cf89-4b48-bb0b-79a1b24afd82</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = 'Dogecoin' or . = 'Dogecoin')]</value>
-      <webElementGuid>088e5220-c63d-4d82-a318-5f391a98485a</webElementGuid>
+      <value>//span[(text() = 'Pepe Coin' or . = 'Pepe Coin')]</value>
+      <webElementGuid>eb171fa3-1447-4c8a-855d-a81c441d1aab</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

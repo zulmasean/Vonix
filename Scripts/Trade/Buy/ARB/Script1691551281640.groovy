@@ -22,16 +22,16 @@ WebUI.scrollToPosition(0, 100)
 def maxRetriess = 10
 
 for (int i = 1; i <= maxRetriess; i++) {
-    try {
-        WebUI.click(findTestObject('Trade/Page_Vonix (development)/img'))
+	try {
+		WebUI.click(findTestObject('Trade/Page_Vonix (development)/img'))
 
-        break
-    }
-    catch (Exception e) {
-        Thread.sleep(1000)
+		break
+	}
+	catch (Exception e) {
+		Thread.sleep(1000)
 
-        WebUI.refresh()
-    } 
+		WebUI.refresh()
+	}
 }
 
 WebUI.delay(2)
@@ -39,21 +39,20 @@ WebUI.delay(2)
 def maxRetries = 10
 
 for (int i = 1; i <= maxRetries; i++) {
-    try {
-        WebUI.click(findTestObject('Trade/Page_Vonix (development)/span_Dogecoin'))
+	try {
+		WebUI.click(findTestObject('Trade/Page_Vonix (development)/p_ARbit ARB  USDT'))
+		break
+	}
+	catch (Exception e) {
+		Thread.sleep(1000)
 
-        break
-    }
-    catch (Exception e) {
-        Thread.sleep(1000)
+		WebUI.refresh()
 
-        WebUI.refresh()
-
-        WebUI.click(findTestObject('Trade/Page_Vonix (development)/img'))
-    } 
+		WebUI.click(findTestObject('Trade/Page_Vonix (development)/img'))
+	}
 }
 
-WebUI.setText(findTestObject('Trade/Page_Vonix (development)/input'), input_Dogecoin)
+WebUI.setText(findTestObject('Trade/Page_Vonix (development)/input'), input_ARB)
 
 WebUI.click(findTestObject('Trade/Page_Vonix (development)/div_Top Up_p-checkbox-box'))
 
@@ -62,4 +61,3 @@ WebUI.click(findTestObject('Trade/Page_Vonix (development)/button_BUY'))
 WebUI.click(findTestObject('Trade/Page_Vonix (development)/button_Confirm to Buy'))
 
 WebUI.click(findTestObject('Trade/Page_Vonix (development)/button_Make another transaction'))
-

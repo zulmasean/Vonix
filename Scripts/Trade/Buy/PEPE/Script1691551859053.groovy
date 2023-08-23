@@ -40,7 +40,7 @@ def maxRetries = 10
 
 for (int i = 1; i <= maxRetries; i++) {
     try {
-        WebUI.click(findTestObject('Trade/Page_Vonix (development)/span_Dogecoin'))
+        WebUI.click(findTestObject('Trade/Page_Vonix (development)/span_PEPEGOLD'))
 
         break
     }
@@ -53,7 +53,7 @@ for (int i = 1; i <= maxRetries; i++) {
     } 
 }
 
-WebUI.setText(findTestObject('Trade/Page_Vonix (development)/input'), input_Dogecoin)
+WebUI.setText(findTestObject('Trade/Page_Vonix (development)/input'), input_PEPE)
 
 WebUI.click(findTestObject('Trade/Page_Vonix (development)/div_Top Up_p-checkbox-box'))
 

@@ -5,4 +5,17 @@
    <tag></tag>
    <comment></comment>
    <testCaseGuid>3d4f536a-7e7e-413e-80e6-ee63cec70f9b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e7b247b5-7aa8-4b2b-926d-c6e58b44993f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e7b247b5-7aa8-4b2b-926d-c6e58b44993f</id>
+      <masked>false</masked>
+      <name>input_Dogecoin</name>
+   </variable>
 </TestCaseEntity>

@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Dogecoin</name>
+   <name>span_Everest</name>
    <tag></tag>
-   <elementGuidId>9cb8e409-bff5-4625-a1d7-b840e022eca5</elementGuidId>
+   <elementGuidId>31df4c03-8d36-4ecb-b391-4f17ddae0612</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='close']/div/div[3]/div[3]/div[2]/div[2]/p/span</value>
-      </entry>
-      <entry>
-         <key>BASIC</key>
-         <value>//*[(text() = 'Dogecoin' or . = 'Dogecoin')]</value>
+         <value>//div[@id='close']/div/div[3]/div[4]/div[2]/div[2]/p/span</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -21,91 +17,91 @@
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>6ae1444a-6ff1-4b5e-bad3-274c86fbc367</webElementGuid>
+      <webElementGuid>c17ddb1c-eebe-4f4a-9d5d-6c992db7898e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Dogecoin</value>
-      <webElementGuid>5bf6a7c2-a206-42a0-92c0-69175456717a</webElementGuid>
+      <value>Everest</value>
+      <webElementGuid>47788e0a-9bb6-4849-be47-6b266d649222</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;close&quot;)/div[@class=&quot;vx-modal__container animate__animated animate__fadeIn md&quot;]/div[@class=&quot;modal-select-crypto__test&quot;]/div[@class=&quot;modal-select-crypto__item&quot;]/div[@class=&quot;flex gap-3 modal-select-crypto__item__fav&quot;]/div[@class=&quot;modal-select-crypto__item__details&quot;]/p[1]/span[1]</value>
-      <webElementGuid>1d36e963-9c55-4bda-aeed-61bf8b004988</webElementGuid>
+      <webElementGuid>1e5de4c4-a249-4fb3-a438-b69c8d738723</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='close']/div/div[3]/div[3]/div[2]/div[2]/p/span</value>
-      <webElementGuid>2700cfd5-1fc5-4ee4-85df-8ab241dee816</webElementGuid>
+      <value>//div[@id='close']/div/div[3]/div[4]/div[2]/div[2]/p/span</value>
+      <webElementGuid>12b1fbe9-551b-4395-9d61-90975e1749a4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='DODO'])[1]/following::span[1]</value>
-      <webElementGuid>f87abef0-261c-429f-a447-38bd6d01c668</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bonfida'])[1]/following::span[1]</value>
+      <webElementGuid>d3f04315-7f58-4788-aba4-386dac08acf3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/following::span[2]</value>
-      <webElementGuid>b5ad62e4-6f1c-4406-bef9-28b8e07add00</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BarnBridge'])[1]/following::span[2]</value>
+      <webElementGuid>9929cf9a-c277-4e6a-a64d-88327a27291e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='ETHDOWN'])[1]/preceding::span[1]</value>
-      <webElementGuid>ad46ae05-7430-4781-85f6-8ab7fe03e840</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lido DAO'])[1]/preceding::span[1]</value>
+      <webElementGuid>48165d44-4af2-4edf-b462-a6d8d9e51c9e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Komodo'])[1]/preceding::span[2]</value>
-      <webElementGuid>28fdf43a-941e-4585-8b7e-9efb5ad0a6de</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Orchid'])[1]/preceding::span[2]</value>
+      <webElementGuid>024437e7-4908-4edb-9065-4903f5bd57cd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Dogecoin']/parent::*</value>
-      <webElementGuid>c4dd102b-c924-4a16-bc8d-9621a0301e5c</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Everest']/parent::*</value>
+      <webElementGuid>132ea037-ab45-4723-a12b-0d7670a4b889</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/div[2]/div[2]/p/span</value>
-      <webElementGuid>7a7bec8c-8fa3-46d7-8f40-2d8cd4a9f675</webElementGuid>
+      <value>//div[4]/div[2]/div[2]/p/span</value>
+      <webElementGuid>8a390d4b-cade-480b-991a-8102a906cb3a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = 'Dogecoin' or . = 'Dogecoin')]</value>
-      <webElementGuid>088e5220-c63d-4d82-a318-5f391a98485a</webElementGuid>
+      <value>//span[(text() = 'Everest' or . = 'Everest')]</value>
+      <webElementGuid>40dea584-23b1-473d-9800-4d5ac8e6515b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

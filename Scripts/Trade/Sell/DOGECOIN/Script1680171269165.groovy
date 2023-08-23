@@ -17,31 +17,47 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+WebUI.delay(5)
 
-WebUI.maximizeWindow()
+WebUI.scrollToPosition(0, 100)
 
-WebUI.navigateToUrl('https://dev.vonix.id/login')
+def maxRetriess = 10
 
-WebUI.setText(findTestObject('Object Repository/VX_Login/Page_Vonix (development)/input_Email_email'), 'basis@btcmod.com')
+for (int i = 1; i <= maxRetriess; i++) {
+	try {
+		WebUI.click(findTestObject('Trade/Page_Vonix (development)/img'))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/VX_Login/Page_Vonix (development)/input_Password_password'), 'XmUHGyNsHMcN81HiJ04wCA==')
+		break
+	}
+	catch (Exception e) {
+		Thread.sleep(1000)
 
-WebUI.click(findTestObject('Object Repository/VX_Login/Page_Vonix (development)/div_Forgot password_p-checkbox-box'))
+		WebUI.refresh()
+	}
+}
 
-WebUI.click(findTestObject('Object Repository/VX_Login/Page_Vonix (development)/button_Login'))
+WebUI.delay(2)
 
-WebUI.click(findTestObject('Trade/Page_Vonix (development)/p_Trade'))
+def maxRetries = 10
 
-WebUI.click(findTestObject('Trade/Page_Vonix (development)/a_Easy Trade'))
+for (int i = 1; i <= maxRetries; i++) {
+	try {
+		WebUI.click(findTestObject('Trade/Page_Vonix (development)/span_Dogecoin'))
+
+		break
+	}
+	catch (Exception e) {
+		Thread.sleep(1000)
+
+		WebUI.refresh()
+
+		WebUI.click(findTestObject('Trade/Page_Vonix (development)/img'))
+	}
+}
 
 WebUI.click(findTestObject('Trade/Sell/Page_Vonix (development)/span_SELL'))
 
-WebUI.click(findTestObject('Trade/Sell/Page_Vonix (development)/div_BitcoinBTC  USDT'))
-
-WebUI.click(findTestObject('Trade/Page_Vonix (development)/span_Dogecoin'))
-
-WebUI.click(findTestObject('Trade/Sell/Page_Vonix (development)/button_(selected 0)_slider-stop-whole'))
+WebUI.setText(findTestObject('Trade/Page_Vonix (development)/input'), input_Dogecoin)
 
 WebUI.click(findTestObject('Trade/Sell/Page_Vonix (development)/div_(selected 100)_p-checkbox-box'))
 
@@ -49,7 +65,4 @@ WebUI.click(findTestObject('Trade/Sell/Page_Vonix (development)/button_SELL'))
 
 WebUI.click(findTestObject('Trade/Sell/Page_Vonix (development)/button_Confirm to Sell'))
 
-WebUI.click(findTestObject('Trade/Sell/Page_Vonix (development)/button_Transaction History'))
-
-WebUI.closeBrowser()
-
+WebUI.click(findTestObject('Trade/Page_Vonix (development)/button_Make another transaction'))

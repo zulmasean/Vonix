@@ -42,7 +42,7 @@ def maxRetries = 10
 
 for (int i = 1; i <= maxRetries; i++) {
 	try {
-		WebUI.click(findTestObject('Trade/Page_Vonix (development)/span_HNT'))
+		WebUI.click(findTestObject('Trade/Page_Vonix/span_HNT'))
 
 		break
 	}
@@ -57,12 +57,21 @@ for (int i = 1; i <= maxRetries; i++) {
 
 WebUI.click(findTestObject('Trade/Sell/Page_Vonix (development)/span_SELL'))
 
-WebUI.setText(findTestObject('Trade/Page_Vonix (development)/input'), input_HNT)
+//def checkObject = WebUI.verifyElementPresent(findTestObject('Trade/Page_Vonix (development)/span_Your balance is below the minimum order amount'),
+//	5)
+//
+//if ( checkObject === true)
+//{
+//	return
+//}else {
 
-WebUI.click(findTestObject('Trade/Sell/Page_Vonix (development)/div_(selected 100)_p-checkbox-box'))
-
-WebUI.click(findTestObject('Trade/Sell/Page_Vonix (development)/button_SELL'))
-
-WebUI.click(findTestObject('Trade/Sell/Page_Vonix (development)/button_Confirm to Sell'))
-
-WebUI.click(findTestObject('Trade/Page_Vonix (development)/button_Make another transaction'))
+	WebUI.setText(findTestObject('Trade/Page_Vonix (development)/input'), input_HNT)
+	
+	WebUI.click(findTestObject('Trade/Sell/Page_Vonix (development)/div_(selected 100)_p-checkbox-box'))
+	
+	WebUI.click(findTestObject('Trade/Sell/Page_Vonix (development)/button_SELL'))
+	
+	WebUI.click(findTestObject('Trade/Sell/Page_Vonix (development)/button_Confirm to Sell'))
+	
+	WebUI.click(findTestObject('Trade/Page_Vonix (development)/button_Make another transaction'))
+//}
